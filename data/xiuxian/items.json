@@ -1,0 +1,5827 @@
+{
+    "6001": {
+        "name": "修士道袍",
+        "def_buff": 0.08,
+        "rank": 50,
+        "level": "下品符器",
+        "type": "装备",
+        "item_type": "防具"
+    },
+    "6011": {
+        "name": "化尘道袍",
+        "def_buff": 0.1,
+        "rank": 42,
+        "level": "上品符器",
+        "type": "装备",
+        "item_type": "防具"
+    },
+    "6021": {
+        "name": "阴磷甲",
+        "def_buff": 0.12,
+        "rank": 39,
+        "level": "下品玄器",
+        "type": "装备",
+        "item_type": "防具"
+    },
+    "6031": {
+        "name": "御灵盾",
+        "def_buff": 0.14,
+        "rank": 36,
+        "level": "上品玄器",
+        "type": "装备",
+        "item_type": "防具"
+    },
+    "6041": {
+        "name": "凤血魔袍",
+        "def_buff": 0.16,
+        "rank": 33,
+        "level": "下品纯阳",
+        "type": "装备",
+        "item_type": "防具"
+    },
+    "6051": {
+        "name": "避水法袍",
+        "def_buff": 0.18,
+        "rank": 30,
+        "level": "上品纯阳",
+        "type": "装备",
+        "item_type": "防具"
+    },
+    "6061": {
+        "name": "青溪法袍",
+        "def_buff": 0.2,
+        "rank": 27,
+        "level": "下品通天",
+        "type": "装备",
+        "item_type": "防具"
+    },
+    "6071": {
+        "name": "驱厄灵袍",
+        "def_buff": 0.22,
+        "rank": 24,
+        "level": "上品通天",
+        "type": "装备",
+        "item_type": "防具"
+    },
+    "6081": {
+        "name": "三阳道袍",
+        "def_buff": 0.24,
+        "rank": 21,
+        "level": "下品仙器",
+        "type": "装备",
+        "item_type": "防具"
+    },
+    "6091": {
+        "name": "皇鳞甲",
+        "def_buff": 0.26,
+        "rank": 18,
+        "level": "上品仙器",
+        "type": "装备",
+        "item_type": "防具"
+    },
+    "7001": {
+        "name": "精铁符剑",
+        "atk_buff": 0.04,
+        "crit_buff": 0,
+        "rank": 50,
+        "level": "下品符器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7002": {
+        "name": "桃木符剑",
+        "atk_buff": 0,
+        "crit_buff": 0.08,
+        "rank": 47,
+        "level": "下品符器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7003": {
+        "name": "精元符剑",
+        "atk_buff": 0.02,
+        "crit_buff": 0.04,
+        "rank": 47,
+        "level": "下品符器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7011": {
+        "name": "火铜符剑",
+        "atk_buff": 0.06,
+        "crit_buff": 0,
+        "rank": 42,
+        "level": "上品符器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7012": {
+        "name": "青玉符剑",
+        "atk_buff": 0,
+        "crit_buff": 0.12,
+        "rank": 42,
+        "level": "上品符器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7013": {
+        "name": "灵气剑",
+        "atk_buff": 0.03,
+        "crit_buff": 0.06,
+        "rank": 42,
+        "level": "上品符器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7021": {
+        "name": "辟邪惊雷尺",
+        "atk_buff": 0.08,
+        "crit_buff": 0,
+        "rank": 39,
+        "level": "下品法器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7022": {
+        "name": "七星剑",
+        "atk_buff": 0,
+        "crit_buff": 0.16,
+        "rank": 39,
+        "level": "下品法器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7023": {
+        "name": "流光剑",
+        "atk_buff": 0.04,
+        "crit_buff": 0.08,
+        "rank": 39,
+        "level": "下品法器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7031": {
+        "name": "金光镜",
+        "atk_buff": 0.1,
+        "crit_buff": 0,
+        "rank": 36,
+        "level": "上品法器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7032": {
+        "name": "阴阳夺魂针",
+        "atk_buff": 0,
+        "crit_buff": 0.2,
+        "rank": 36,
+        "level": "上品法器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7033": {
+        "name": "山河鼎",
+        "atk_buff": 0.05,
+        "crit_buff": 0.1,
+        "rank": 36,
+        "level": "上品法器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7041": {
+        "name": "离地焰光旗",
+        "atk_buff": 0.12,
+        "crit_buff": 0.1,
+        "rank": 33,
+        "level": "下品纯阳法器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7042": {
+        "name": "青萍剑",
+        "atk_buff": 0,
+        "crit_buff": 0.24,
+        "rank": 33,
+        "level": "下品纯阳法器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7043": {
+        "name": "千重峰",
+        "atk_buff": 0.06,
+        "crit_buff": 0.12,
+        "rank": 33,
+        "level": "下品纯阳法器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7051": {
+        "name": "五火七禽扇",
+        "atk_buff": 0.14,
+        "crit_buff": 0,
+        "rank": 30,
+        "level": "上品纯阳法器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7052": {
+        "name": "青莲宝色旗",
+        "atk_buff": 0,
+        "crit_buff": 0.28,
+        "rank": 30,
+        "level": "上品纯阳法器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7053": {
+        "name": "嗜魂幡",
+        "atk_buff": 0.07,
+        "crit_buff": 0.14,
+        "rank": 30,
+        "level": "上品纯阳法器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7061": {
+        "name": "绝仙剑",
+        "atk_buff": 0.16,
+        "crit_buff": 0,
+        "rank": 27,
+        "level": "下品通天法器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7062": {
+        "name": "落魂钟",
+        "atk_buff": 0,
+        "crit_buff": 0.32,
+        "rank": 27,
+        "level": "下品通天法器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7063": {
+        "name": "乾天剑",
+        "atk_buff": 0.08,
+        "crit_buff": 0.16,
+        "rank": 27,
+        "level": "下品通天法器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7071": {
+        "name": "乾坤尺",
+        "atk_buff": 0.18,
+        "crit_buff": 0,
+        "rank": 24,
+        "level": "上品通天法器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7072": {
+        "name": "天地五方旗",
+        "atk_buff": 0,
+        "crit_buff": 0.36,
+        "rank": 24,
+        "level": "上品通天法器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7073": {
+        "name": "红线遁光针",
+        "atk_buff": 0.09,
+        "crit_buff": 0.18,
+        "rank": 24,
+        "level": "上品通天法器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7081": {
+        "name": "陨仙",
+        "atk_buff": 0.2,
+        "crit_buff": 0,
+        "rank": 21,
+        "level": "下品仙器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7082": {
+        "name": "惊雷",
+        "atk_buff": 0,
+        "crit_buff": 0.4,
+        "rank": 21,
+        "level": "下品仙器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7083": {
+        "name": "承影",
+        "atk_buff": 0.1,
+        "crit_buff": 0.2,
+        "rank": 21,
+        "level": "下品仙器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7091": {
+        "name": "无影剑",
+        "atk_buff": 0.12,
+        "crit_buff": 0.24,
+        "rank": 18,
+        "level": "上品仙器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7092": {
+        "name": "风云幡",
+        "atk_buff": 0,
+        "crit_buff": 0.48,
+        "rank": 18,
+        "level": "上品仙器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "7093": {
+        "name": "青竹蜂云剑",
+        "atk_buff": 0.24,
+        "crit_buff": 0.0,
+        "rank": 18,
+        "level": "上品仙器",
+        "type": "装备",
+        "item_type": "法器"
+    },
+    "9001": {
+        "name": "吐纳功法",
+        "hpbuff": 0.03,
+        "mpbuff": 0.02,
+        "atkbuff": 0.03,
+        "ratebuff": 0.02,
+        "desc": "",
+        "rank": "50",
+        "level": "人阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9002": {
+        "name": "冰心诀",
+        "hpbuff": 0.06,
+        "mpbuff": 0.02,
+        "atkbuff": 0,
+        "ratebuff": 0.02,
+        "desc": "",
+        "rank": "50",
+        "level": "人阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9003": {
+        "name": "飞云劲",
+        "hpbuff": 0.03,
+        "mpbuff": 0.02,
+        "atkbuff": 0.05,
+        "ratebuff": 0,
+        "desc": "",
+        "rank": "50",
+        "level": "人阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9004": {
+        "name": "沛然决",
+        "hpbuff": 0.03,
+        "mpbuff": 0.02,
+        "atkbuff": 0,
+        "ratebuff": 0.05,
+        "desc": "",
+        "rank": "50",
+        "level": "人阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9005": {
+        "name": "练体术",
+        "hpbuff": 0.03,
+        "mpbuff": 0.02,
+        "atkbuff": 0.05,
+        "ratebuff": 0.05,
+        "desc": "",
+        "rank": "50",
+        "level": "人阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9011": {
+        "name": "禾山经",
+        "hpbuff": 0.06,
+        "mpbuff": 0.04,
+        "atkbuff": 0.06,
+        "ratebuff": 0.04,
+        "desc": "",
+        "rank": "45",
+        "level": "人阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9012": {
+        "name": "浪击决",
+        "hpbuff": 0.06,
+        "mpbuff": 0.04,
+        "atkbuff": 0.1,
+        "ratebuff": 0,
+        "desc": "",
+        "rank": "45",
+        "level": "人阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9013": {
+        "name": "地元炼体功",
+        "hpbuff": 0.06,
+        "mpbuff": 0.04,
+        "atkbuff": 0,
+        "ratebuff": 0.1,
+        "desc": "",
+        "rank": "45",
+        "level": "人阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9014": {
+        "name": "上青诀",
+        "hpbuff": 0.1,
+        "mpbuff": 0.04,
+        "atkbuff": 0.06,
+        "ratebuff": 0,
+        "desc": "",
+        "rank": "45",
+        "level": "人阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9100": {
+        "name": "化焰诀",
+        "hpbuff": 0.06,
+        "mpbuff": 0.04,
+        "atkbuff": 0.09,
+        "ratebuff": 0.06,
+        "desc": "",
+        "rank": "45",
+        "level": "人阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9099": {
+        "name": "弄焰诀",
+        "hpbuff": 0.06,
+        "mpbuff": 0.04,
+        "atkbuff": 0.09,
+        "ratebuff": 0.06,
+        "desc": "",
+        "rank": "42",
+        "level": "人阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9101": {
+        "name": "长生诀",
+        "hpbuff": 0.1,
+        "mpbuff": 0.06,
+        "atkbuff": 0.04,
+        "ratebuff": 0.1,
+        "desc": "",
+        "rank": "42",
+        "level": "黄阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9102": {
+        "name": "烈焰诀",
+        "hpbuff": 0,
+        "mpbuff": 0.06,
+        "atkbuff": 0.2,
+        "ratebuff": 0.04,
+        "desc": "",
+        "rank": "42",
+        "level": "黄阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9103": {
+        "name": "幽魂录",
+        "hpbuff": 0.2,
+        "mpbuff": 0.06,
+        "atkbuff": 0,
+        "ratebuff": 0.04,
+        "desc": "",
+        "rank": "42",
+        "level": "黄阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9104": {
+        "name": "魑魅鬼卷",
+        "hpbuff": 0.1,
+        "mpbuff": 0.06,
+        "atkbuff": 0.1,
+        "ratebuff": 0.04,
+        "desc": "",
+        "rank": "42",
+        "level": "黄阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9200": {
+        "name": "夺灵诀",
+        "hpbuff": 0.1,
+        "mpbuff": 0.06,
+        "atkbuff": 0.15,
+        "ratebuff": 0.04,
+        "desc": "",
+        "rank": "42",
+        "level": "黄阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9201": {
+        "name": "万木诀",
+        "hpbuff": 0.1,
+        "mpbuff": 0.1,
+        "atkbuff": 0.1,
+        "ratebuff": 0.1,
+        "desc": "",
+        "rank": "39",
+        "level": "黄阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9202": {
+        "name": "真阳功",
+        "hpbuff": 0.2,
+        "mpbuff": 0.1,
+        "atkbuff": 0.05,
+        "ratebuff": 0.05,
+        "desc": "",
+        "rank": "39",
+        "level": "黄阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9203": {
+        "name": "龟息术",
+        "hpbuff": 0.1,
+        "mpbuff": 0.1,
+        "atkbuff": 0,
+        "ratebuff": 0.2,
+        "desc": "",
+        "rank": "39",
+        "level": "黄阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9204": {
+        "name": "天晶诀",
+        "hpbuff": 0.1,
+        "mpbuff": 0.1,
+        "atkbuff": 0.2,
+        "ratebuff": 0,
+        "desc": "",
+        "rank": "39",
+        "level": "黄阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9300": {
+        "name": "五府锻元诀",
+        "hpbuff": 0.1,
+        "mpbuff": 0.1,
+        "atkbuff": 0.1,
+        "ratebuff": 0.15,
+        "desc": "",
+        "rank": "39",
+        "level": "黄阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9301": {
+        "name": "水灵妙法",
+        "hpbuff": 0.2,
+        "mpbuff": 0.1,
+        "atkbuff": 0.2,
+        "ratebuff": 0.1,
+        "desc": "",
+        "rank": "36",
+        "level": "玄阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9302": {
+        "name": "五藏炼尘功",
+        "hpbuff": 0.2,
+        "mpbuff": 0.1,
+        "atkbuff": 0.1,
+        "ratebuff": 0.2,
+        "desc": "",
+        "rank": "36",
+        "level": "玄阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9303": {
+        "name": "游神御水诀",
+        "hpbuff": 0.2,
+        "mpbuff": 0.1,
+        "atkbuff": 0.3,
+        "ratebuff": 0,
+        "desc": "",
+        "rank": "36",
+        "level": "玄阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9304": {
+        "name": "聚尘诀",
+        "hpbuff": 0.4,
+        "mpbuff": 0.1,
+        "atkbuff": 0.1,
+        "ratebuff": 0,
+        "desc": "",
+        "rank": "36",
+        "level": "玄阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9400": {
+        "name": "流光真诀",
+        "hpbuff": 0.2,
+        "mpbuff": 0.1,
+        "atkbuff": 0.2,
+        "ratebuff": 0.1,
+        "desc": "",
+        "rank": "36",
+        "level": "玄阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9401": {
+        "name": "混元引气诀",
+        "hpbuff": 0.2,
+        "mpbuff": 0.2,
+        "atkbuff": 0.2,
+        "ratebuff": 0.2,
+        "desc": "",
+        "rank": "33",
+        "level": "玄阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9402": {
+        "name": "焚心诀",
+        "hpbuff": 0.2,
+        "mpbuff": 0.2,
+        "atkbuff": 0.05,
+        "ratebuff": 0.235,
+        "desc": "",
+        "rank": "33",
+        "level": "玄阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9403": {
+        "name": "怒涛诀",
+        "hpbuff": 0.2,
+        "mpbuff": 0.2,
+        "atkbuff": 0.35,
+        "ratebuff": 0.05,
+        "desc": "",
+        "rank": "33",
+        "level": "玄阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9404": {
+        "name": "三才化甲诀",
+        "hpbuff": 0.4,
+        "mpbuff": 0.2,
+        "atkbuff": 0.1,
+        "ratebuff": 0.1,
+        "desc": "",
+        "rank": "33",
+        "level": "玄阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9500": {
+        "name": "混元尘引录",
+        "hpbuff": 0.2,
+        "mpbuff": 0.2,
+        "atkbuff": 0.3,
+        "ratebuff": 0.2,
+        "desc": "",
+        "rank": "33",
+        "level": "玄阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9501": {
+        "name": "紫阳混元劲",
+        "hpbuff": 0.2,
+        "mpbuff": 0.2,
+        "atkbuff": 0.2,
+        "ratebuff": 0.2,
+        "desc": "",
+        "rank": "30",
+        "level": "地阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9502": {
+        "name": "浑天术",
+        "hpbuff": 0.2,
+        "mpbuff": 0.2,
+        "atkbuff": 0.05,
+        "ratebuff": 0.235,
+        "desc": "",
+        "rank": "30",
+        "level": "地阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9503": {
+        "name": "七杀剑诀",
+        "hpbuff": 0.2,
+        "mpbuff": 0.2,
+        "atkbuff": 0.35,
+        "ratebuff": 0.05,
+        "desc": "",
+        "rank": "30",
+        "level": "地阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9504": {
+        "name": "重水普渡诀",
+        "hpbuff": 0.4,
+        "mpbuff": 0.2,
+        "atkbuff": 0.1,
+        "ratebuff": 0.1,
+        "desc": "",
+        "rank": "30",
+        "level": "地阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9600": {
+        "name": "九龙引雷诀",
+        "hpbuff": 0.2,
+        "mpbuff": 0.2,
+        "atkbuff": 0.3,
+        "ratebuff": 0.2,
+        "desc": "",
+        "rank": "30",
+        "level": "地阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9601": {
+        "name": "大罗千幻诀",
+        "hpbuff": 0.4,
+        "mpbuff": 0.4,
+        "atkbuff": 0.4,
+        "ratebuff": 0.4,
+        "desc": "",
+        "rank": "27",
+        "level": "地阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9602": {
+        "name": "神威录",
+        "hpbuff": 0.4,
+        "mpbuff": 0.4,
+        "atkbuff": 0.2,
+        "ratebuff": 0.6,
+        "desc": "",
+        "rank": "27",
+        "level": "地阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9603": {
+        "name": "幻影神行诀",
+        "hpbuff": 0.4,
+        "mpbuff": 0.4,
+        "atkbuff": 0.6,
+        "ratebuff": 0.2,
+        "desc": "",
+        "rank": "27",
+        "level": "地阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9604": {
+        "name": "天星润水诀",
+        "hpbuff": 0.8,
+        "mpbuff": 0.4,
+        "atkbuff": 0.2,
+        "ratebuff": 0.2,
+        "desc": "",
+        "rank": "27",
+        "level": "地阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9700": {
+        "name": "太乙玄功",
+        "hpbuff": 0.4,
+        "mpbuff": 0.4,
+        "atkbuff": 0.5,
+        "ratebuff": 0.5,
+        "desc": "",
+        "rank": "27",
+        "level": "地阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9701": {
+        "name": "朝元御金诀",
+        "hpbuff": 0.5,
+        "mpbuff": 0.5,
+        "atkbuff": 0.5,
+        "ratebuff": 0.5,
+        "desc": "",
+        "rank": "24",
+        "level": "天阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9702": {
+        "name": "太上化龙诀",
+        "hpbuff": 0.5,
+        "mpbuff": 0.5,
+        "atkbuff": 0.3,
+        "ratebuff": 0.7,
+        "desc": "",
+        "rank": "24",
+        "level": "天阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9703": {
+        "name": "玄阳哺焰诀",
+        "hpbuff": 0.5,
+        "mpbuff": 0.5,
+        "atkbuff": 0.7,
+        "ratebuff": 0.3,
+        "desc": "",
+        "rank": "24",
+        "level": "天阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9704": {
+        "name": "太阴六虚功",
+        "hpbuff": 0.9,
+        "mpbuff": 0.5,
+        "atkbuff": 0.3,
+        "ratebuff": 0.3,
+        "desc": "",
+        "rank": "24",
+        "level": "天阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9800": {
+        "name": "三阳玄火变",
+        "hpbuff": 0.5,
+        "mpbuff": 0.5,
+        "atkbuff": 0.6,
+        "ratebuff": 0.6,
+        "desc": "",
+        "rank": "24",
+        "level": "天阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9801": {
+        "name": "玄武吐纳术",
+        "hpbuff": 1.5,
+        "mpbuff": 0.5,
+        "atkbuff": 0.6,
+        "ratebuff": 0.7,
+        "desc": "",
+        "rank": "21",
+        "level": "天阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9802": {
+        "name": "太上化龙真诀",
+        "hpbuff": 0.2,
+        "mpbuff": 0.2,
+        "atkbuff": 0.2,
+        "ratebuff": 0.9,
+        "desc": "",
+        "rank": "21",
+        "level": "天阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9803": {
+        "name": "煮海诀",
+        "hpbuff": 0.5,
+        "mpbuff": 0.5,
+        "atkbuff": 0.9,
+        "ratebuff": 0.7,
+        "desc": "",
+        "rank": "21",
+        "level": "天阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9804": {
+        "name": "万尘归灵诀",
+        "hpbuff": 1.0,
+        "mpbuff": 1.0,
+        "atkbuff": 0.6,
+        "ratebuff": 0.7,
+        "desc": "",
+        "rank": "21",
+        "level": "天阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9900": {
+        "name": "玄清天衍录",
+        "hpbuff": 0.1,
+        "mpbuff": 0.2,
+        "atkbuff": 0.8,
+        "ratebuff": 0.8,
+        "desc": "",
+        "rank": "21",
+        "level": "天阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9901": {
+        "name": "万象诀",
+        "hpbuff": 0.6,
+        "mpbuff": 2.0,
+        "atkbuff": 0.6,
+        "ratebuff": 0.7,
+        "desc": "",
+        "rank": "21",
+        "level": "天阶上品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9910": {
+        "name": "元磁神光",
+        "hpbuff": 0.9,
+        "mpbuff": 0.9,
+        "atkbuff": 0.9,
+        "ratebuff": 0.9,
+        "desc": "",
+        "rank": "18",
+        "level": "仙阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9911": {
+        "name": "天罗真功",
+        "hpbuff": 2.0,
+        "mpbuff": 2.0,
+        "atkbuff": 0.8,
+        "ratebuff": 0.8,
+        "desc": "",
+        "rank": "18",
+        "level": "仙阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "9912": {
+        "name": "托天魔功",
+        "hpbuff": 0.6,
+        "mpbuff": 0.6,
+        "atkbuff": 0.8,
+        "ratebuff": 1.0,
+        "desc": "",
+        "rank": "18",
+        "level": "仙阶下品",
+        "type": "技能",
+        "item_type": "功法"
+    },
+    "8001": {
+        "name": "灵光印",
+        "skill_type": 1,
+        "atkvalue": [
+            1.2,
+            1.2
+        ],
+        "hpcost": 0.1,
+        "mpcost": 0.3,
+        "turncost": 1,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "50",
+        "level": "人阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8002": {
+        "name": "落石阵",
+        "skill_type": 1,
+        "atkvalue": [
+            2.4
+        ],
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 0,
+        "desc": "吔屎啦！",
+        "rate": 50,
+        "rank": "50",
+        "level": "人阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8003": {
+        "name": "真金印",
+        "skill_type": 2,
+        "atkvalue": 0.4,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 3,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "50",
+        "level": "人阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8004": {
+        "name": "惊涛剑诀",
+        "skill_type": 3,
+        "bufftype": 1,
+        "buffvalue": 0.4,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 3,
+        "desc": "你被强化了，快去送!",
+        "rate": 100,
+        "rank": "50",
+        "level": "人阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8005": {
+        "name": "鳖住",
+        "skill_type": 3,
+        "bufftype": 2,
+        "buffvalue": 0.05,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 2,
+        "desc": "不说了，开鳖!",
+        "rate": 100,
+        "rank": "50",
+        "level": "人阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8101": {
+        "name": "化尘剑法",
+        "skill_type": 1,
+        "atkvalue": [
+            1.3,
+            1.3
+        ],
+        "hpcost": 0.1,
+        "mpcost": 0.3,
+        "turncost": 1,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "45",
+        "level": "人阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8102": {
+        "name": "三昧真火",
+        "skill_type": 1,
+        "atkvalue": [
+            2.6
+        ],
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 0,
+        "desc": "吔屎啦！",
+        "rate": 50,
+        "rank": "45",
+        "level": "人阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8103": {
+        "name": "截脉",
+        "skill_type": 2,
+        "atkvalue": 0.44,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 3,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "45",
+        "level": "人阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8104": {
+        "name": "灵息术",
+        "skill_type": 3,
+        "bufftype": 1,
+        "buffvalue": 0.44,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 3,
+        "desc": "你被强化了，快去送!",
+        "rate": 100,
+        "rank": "45",
+        "level": "人阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8105": {
+        "name": "鳖鳖住",
+        "skill_type": 3,
+        "bufftype": 2,
+        "buffvalue": 0.1,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 2,
+        "desc": "不说了，开鳖!",
+        "rate": 100,
+        "rank": "45",
+        "level": "人阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8201": {
+        "name": "竹山剑法",
+        "skill_type": 1,
+        "atkvalue": [
+            1.4,
+            1.4
+        ],
+        "hpcost": 0.1,
+        "mpcost": 0.3,
+        "turncost": 1,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "42",
+        "level": "黄阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8202": {
+        "name": "碎剑诀",
+        "skill_type": 1,
+        "atkvalue": [
+            2.8
+        ],
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 0,
+        "desc": "吔屎啦！",
+        "rate": 50,
+        "rank": "42",
+        "level": "黄阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8203": {
+        "name": "灵体印",
+        "skill_type": 2,
+        "atkvalue": 0.47,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 3,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "42",
+        "level": "黄阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8204": {
+        "name": "拟剑",
+        "skill_type": 3,
+        "bufftype": 1,
+        "buffvalue": 0.47,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 3,
+        "desc": "你被强化了，快去送!",
+        "rate": 100,
+        "rank": "42",
+        "level": "黄阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8205": {
+        "name": "鳖鳖鳖住",
+        "skill_type": 3,
+        "bufftype": 2,
+        "buffvalue": 0.15,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 2,
+        "desc": "不说了，开鳖!",
+        "rate": 100,
+        "rank": "42",
+        "level": "黄阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8301": {
+        "name": "五毒摄魂阵",
+        "skill_type": 1,
+        "atkvalue": [
+            1.5,
+            1.5
+        ],
+        "hpcost": 0.1,
+        "mpcost": 0.3,
+        "turncost": 1,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "39",
+        "level": "黄阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8302": {
+        "name": "矢神刺",
+        "skill_type": 1,
+        "atkvalue": [
+            3
+        ],
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 0,
+        "desc": "吔屎啦！",
+        "rate": 50,
+        "rank": "39",
+        "level": "黄阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8303": {
+        "name": "摧血掌",
+        "skill_type": 2,
+        "atkvalue": 0.5,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 3,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "39",
+        "level": "黄阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8304": {
+        "name": "归元剑气",
+        "skill_type": 3,
+        "bufftype": 1,
+        "buffvalue": 0.5,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 3,
+        "desc": "你被强化了，快去送!",
+        "rate": 100,
+        "rank": "39",
+        "level": "黄阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8305": {
+        "name": "鳖鳖鳖鳖住",
+        "skill_type": 3,
+        "bufftype": 2,
+        "buffvalue": 0.2,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 2,
+        "desc": "不说了，开鳖!",
+        "rate": 100,
+        "rank": "39",
+        "level": "黄阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8401": {
+        "name": "降魔锁骨阵",
+        "skill_type": 1,
+        "atkvalue": [
+            1.6,
+            1.6
+        ],
+        "hpcost": 0.1,
+        "mpcost": 0.3,
+        "turncost": 1,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "36",
+        "level": "玄阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8402": {
+        "name": "鹤喙针",
+        "skill_type": 1,
+        "atkvalue": [
+            3.2
+        ],
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 0,
+        "desc": "吔屎啦！",
+        "rate": 50,
+        "rank": "36",
+        "level": "玄阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8403": {
+        "name": "祭血罩",
+        "skill_type": 2,
+        "atkvalue": 0.54,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 3,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "36",
+        "level": "玄阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8404": {
+        "name": "分金印",
+        "skill_type": 3,
+        "bufftype": 1,
+        "buffvalue": 0.54,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 3,
+        "desc": "你被强化了，快去送!",
+        "rate": 100,
+        "rank": "36",
+        "level": "玄阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8405": {
+        "name": "鳖鳖鳖鳖鳖住",
+        "skill_type": 3,
+        "bufftype": 2,
+        "buffvalue": 0.25,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 2,
+        "desc": "不说了，开鳖!",
+        "rate": 100,
+        "rank": "36",
+        "level": "玄阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8501": {
+        "name": "苍云荫月",
+        "skill_type": 1,
+        "atkvalue": [
+            1.7,
+            1.7
+        ],
+        "hpcost": 0.1,
+        "mpcost": 0.3,
+        "turncost": 1,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "33",
+        "level": "玄阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8502": {
+        "name": "寸芒",
+        "skill_type": 1,
+        "atkvalue": [
+            3.4
+        ],
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 0,
+        "desc": "吔屎啦！",
+        "rate": 50,
+        "rank": "33",
+        "level": "玄阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8503": {
+        "name": "月华流照",
+        "skill_type": 2,
+        "atkvalue": 0.57,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 3,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "33",
+        "level": "玄阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8504": {
+        "name": "九转游身剑",
+        "skill_type": 3,
+        "bufftype": 1,
+        "buffvalue": 0.57,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 3,
+        "desc": "你被强化了，快去送!",
+        "rate": 100,
+        "rank": "33",
+        "level": "玄阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8505": {
+        "name": "鳖鳖鳖鳖鳖鳖住",
+        "skill_type": 3,
+        "bufftype": 2,
+        "buffvalue": 0.3,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 2,
+        "desc": "不说了，开鳖!",
+        "rate": 100,
+        "rank": "33",
+        "level": "玄阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8601": {
+        "name": "开山诀",
+        "skill_type": 1,
+        "atkvalue": [
+            1.8,
+            1.8
+        ],
+        "hpcost": 0.1,
+        "mpcost": 0.3,
+        "turncost": 1,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "30",
+        "level": "地阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8602": {
+        "name": "离火绝炎",
+        "skill_type": 1,
+        "atkvalue": [
+            3.6
+        ],
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 0,
+        "desc": "吔屎啦！",
+        "rate": 50,
+        "rank": "30",
+        "level": "地阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8603": {
+        "name": "凝水归流",
+        "skill_type": 2,
+        "atkvalue": 0.6,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 3,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "30",
+        "level": "地阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8604": {
+        "name": "五行颠倒术",
+        "skill_type": 3,
+        "bufftype": 1,
+        "buffvalue": 0.6,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 3,
+        "desc": "你被强化了，快去送!",
+        "rate": 100,
+        "rank": "30",
+        "level": "地阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8605": {
+        "name": "鳖鳖鳖鳖鳖鳖鳖住",
+        "skill_type": 3,
+        "bufftype": 2,
+        "buffvalue": 0.35,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 2,
+        "desc": "不说了，开鳖!",
+        "rate": 100,
+        "rank": "30",
+        "level": "地阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8701": {
+        "name": "怒水天殇",
+        "skill_type": 1,
+        "atkvalue": [
+            1.9,
+            1.9
+        ],
+        "hpcost": 0.1,
+        "mpcost": 0.3,
+        "turncost": 1,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "27",
+        "level": "地阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8702": {
+        "name": "炙炎轮回",
+        "skill_type": 1,
+        "atkvalue": [
+            3.8
+        ],
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 0,
+        "desc": "吔屎啦！",
+        "rate": 50,
+        "rank": "27",
+        "level": "地阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8703": {
+        "name": "血魂煞",
+        "skill_type": 2,
+        "atkvalue": 0.64,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 3,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "27",
+        "level": "地阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8704": {
+        "name": "万剑诀",
+        "skill_type": 3,
+        "bufftype": 1,
+        "buffvalue": 0.64,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 3,
+        "desc": "你被强化了，快去送!",
+        "rate": 100,
+        "rank": "27",
+        "level": "地阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8705": {
+        "name": "鳖鳖鳖鳖鳖鳖鳖鳖住",
+        "skill_type": 3,
+        "bufftype": 2,
+        "buffvalue": 0.4,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 2,
+        "desc": "不说了，开鳖!",
+        "rate": 100,
+        "rank": "27",
+        "level": "地阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8801": {
+        "name": "天星若雨",
+        "skill_type": 1,
+        "atkvalue": [
+            2,
+            2
+        ],
+        "hpcost": 0.1,
+        "mpcost": 0.3,
+        "turncost": 1,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "24",
+        "level": "天阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8802": {
+        "name": "金虹贯日",
+        "skill_type": 1,
+        "atkvalue": [
+            4
+        ],
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 0,
+        "desc": "吔屎啦！",
+        "rate": 50,
+        "rank": "24",
+        "level": "天阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8803": {
+        "name": "都天烈火仙阵",
+        "skill_type": 2,
+        "atkvalue": 0.67,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 3,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "24",
+        "level": "天阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8804": {
+        "name": "星微神灭诀",
+        "skill_type": 3,
+        "bufftype": 1,
+        "buffvalue": 0.67,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 3,
+        "desc": "你被强化了，快去送!",
+        "rate": 100,
+        "rank": "24",
+        "level": "天阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8805": {
+        "name": "鳖鳖鳖鳖鳖鳖鳖鳖鳖住",
+        "skill_type": 3,
+        "bufftype": 2,
+        "buffvalue": 0.45,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 2,
+        "desc": "不说了，开鳖!",
+        "rate": 100,
+        "rank": "24",
+        "level": "天阶下品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8901": {
+        "name": "横扫千军",
+        "skill_type": 1,
+        "atkvalue": [
+            1.6,
+            1.7,
+            1.8
+        ],
+        "hpcost": 0.1,
+        "mpcost": 0.5,
+        "turncost": 1,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "21",
+        "level": "天阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8902": {
+        "name": "玄冰凝骨术",
+        "skill_type": 1,
+        "atkvalue": [
+            4.2
+        ],
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 0,
+        "desc": "吔屎啦！",
+        "rate": 50,
+        "rank": "21",
+        "level": "天阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8903": {
+        "name": "凤灵妖火",
+        "skill_type": 2,
+        "atkvalue": 2.0,
+        "hpcost": 0,
+        "mpcost": 0.5,
+        "turncost": 3,
+        "desc": "吔屎啦！",
+        "rate": 100,
+        "rank": "21",
+        "level": "天阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8904": {
+        "name": "大吞焰术",
+        "skill_type": 3,
+        "bufftype": 1,
+        "buffvalue": 1.5,
+        "hpcost": 0,
+        "mpcost": 0.5,
+        "turncost": 3,
+        "desc": "你被强化了，快去送!",
+        "rate": 100,
+        "rank": "21",
+        "level": "天阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8905": {
+        "name": "鳖鳖鳖鳖鳖鳖鳖鳖鳖鳖住",
+        "skill_type": 3,
+        "bufftype": 2,
+        "buffvalue": 0.75,
+        "hpcost": 0,
+        "mpcost": 0.4,
+        "turncost": 3,
+        "desc": "不说了，开鳖!",
+        "rate": 100,
+        "rank": "21",
+        "level": "天阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8906": {
+        "name": "日月乾坤",
+        "skill_type": 4,
+        "hpcost": 0,
+        "mpcost": 0.3,
+        "turncost": 3,
+        "desc": "吔屎啦!",
+        "rate": 50,
+        "success": 100,
+        "rank": "21",
+        "level": "天阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8907": {
+        "name": "雷霆十闪",
+        "skill_type": 1,
+        "atkvalue": [
+            0.1,
+            0.2,
+            0.3,
+            0.4,
+            0.5,
+            0.6,
+            0.7,
+            0.8,
+            0.9,
+            1.0
+        ],
+        "hpcost": 0.2,
+        "mpcost": 0.4,
+        "turncost": 0,
+        "desc": "吔屎啦！",
+        "rate": 70,
+        "rank": "21",
+        "level": "天阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8908": {
+        "name": "天地同寿",
+        "skill_type": 1,
+        "atkvalue": [
+            20.5
+        ],
+        "hpcost": 0.9,
+        "mpcost": 0.9,
+        "turncost": 9,
+        "desc": "吔屎啦！",
+        "rate": 10,
+        "rank": "21",
+        "level": "天阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "8911": {
+        "name": "大罗仙印",
+        "skill_type": 1,
+        "atkvalue": [
+            1.0,
+            2.0,
+            3.0
+        ],
+        "hpcost": 0.0,
+        "mpcost": 0.4,
+        "turncost": 0,
+        "desc": "吔屎啦！",
+        "rate": 70,
+        "rank": "18",
+        "level": "仙阶上品",
+        "type": "技能",
+        "item_type": "神通"
+    },
+    "1101": {
+        "name": "生骨丹",
+        "type": "丹药",
+        "buff_type": "hp",
+        "buff": 0.05,
+        "price": 100000,
+        "selling": 100,
+        "desc": "回复状态的5%，练气境以上可以使用！",
+        "境界": "练气境",
+        "status": 1,
+        "quantity": 1,
+        "day_num": 10,
+        "all_num": 999999,
+        "rank": 49,
+        "item_type": "丹药"
+    },
+    "1102": {
+        "name": "化瘀丹",
+        "type": "丹药",
+        "buff_type": "hp",
+        "buff": 0.1,
+        "price": 100000,
+        "selling": 100,
+        "desc": "回复状态的10%，筑基境以上可以使用！",
+        "境界": "筑基境",
+        "status": 1,
+        "quantity": 1,
+        "day_num": 10,
+        "all_num": 999999,
+        "rank": 46,
+        "item_type": "丹药"
+    },
+    "1103": {
+        "name": "固元丹",
+        "type": "丹药",
+        "buff_type": "hp",
+        "buff": 0.15,
+        "price": 100000,
+        "selling": 100,
+        "desc": "回复状态的15%，结丹境以上可以使用！",
+        "境界": "结丹境",
+        "status": 1,
+        "quantity": 1,
+        "day_num": 10,
+        "all_num": 999999,
+        "rank": 43,
+        "item_type": "丹药"
+    },
+    "1104": {
+        "name": "培元丹",
+        "type": "丹药",
+        "buff_type": "hp",
+        "buff": 0.2,
+        "price": 100000,
+        "selling": 100,
+        "desc": "回复状态的20%，元婴境以上可以使用！",
+        "境界": "元婴境",
+        "status": 1,
+        "quantity": 1,
+        "day_num": 10,
+        "all_num": 999999,
+        "rank": 40,
+        "item_type": "丹药"
+    },
+    "1105": {
+        "name": "黄龙丹",
+        "type": "丹药",
+        "buff_type": "hp",
+        "buff": 0.25,
+        "price": 100000,
+        "selling": 100,
+        "desc": "回复状态的25%，化神境以上可以使用！",
+        "境界": "化神境",
+        "status": 1,
+        "quantity": 1,
+        "day_num": 10,
+        "all_num": 999999,
+        "rank": 37,
+        "item_type": "丹药"
+    },
+    "1106": {
+        "name": "回元丹",
+        "type": "丹药",
+        "buff_type": "hp",
+        "buff": 0.3,
+        "price": 100000,
+        "selling": 100,
+        "desc": "回复状态的30%，炼虚境以上可以使用！",
+        "境界": "炼虚境",
+        "status": 1,
+        "quantity": 1,
+        "day_num": 10,
+        "all_num": 999999,
+        "rank": 34,
+        "item_type": "丹药"
+    },
+    "1107": {
+        "name": "回春丹",
+        "type": "丹药",
+        "buff_type": "hp",
+        "buff": 0.35,
+        "price": 100000,
+        "selling": 100,
+        "desc": "回复状态的35%，合体境以上可以使用！",
+        "境界": "合体境",
+        "status": 1,
+        "quantity": 1,
+        "day_num": 10,
+        "all_num": 999999,
+        "rank": 31,
+        "item_type": "丹药"
+    },
+    "1108": {
+        "name": "养元丹",
+        "type": "丹药",
+        "buff_type": "hp",
+        "buff": 0.4,
+        "price": 100000,
+        "selling": 100,
+        "desc": "回复状态的40%，大乘境以上可以使用！",
+        "境界": "大乘境",
+        "status": 1,
+        "quantity": 1,
+        "day_num": 10,
+        "all_num": 999999,
+        "rank": 28,
+        "item_type": "丹药"
+    },
+    "1109": {
+        "name": "太元真丹",
+        "type": "丹药",
+        "buff_type": "hp",
+        "buff": 0.45,
+        "price": 100000,
+        "selling": 100,
+        "desc": "回复状态的45%，渡劫境以上可以使用！",
+        "境界": "渡劫境",
+        "status": 1,
+        "quantity": 1,
+        "day_num": 10,
+        "all_num": 999999,
+        "rank": 25,
+        "item_type": "丹药"
+    },
+    "1110": {
+        "name": "九阳真丹",
+        "type": "丹药",
+        "buff_type": "hp",
+        "buff": 0.5,
+        "price": 100000,
+        "selling": 100,
+        "desc": "回复状态的50%，半步真仙以上可以使用！",
+        "境界": "半步真仙",
+        "status": 1,
+        "quantity": 1,
+        "day_num": 10,
+        "all_num": 999999,
+        "rank": 22,
+        "item_type": "丹药"
+    },
+    "1111": {
+        "name": "归藏灵丹",
+        "type": "丹药",
+        "buff_type": "hp",
+        "buff": 0.6,
+        "price": 100000,
+        "selling": 100,
+        "desc": "回复状态的60%，金仙境以上可以使用！",
+        "境界": "金仙境",
+        "status": 1,
+        "quantity": 1,
+        "day_num": 10,
+        "all_num": 999999,
+        "rank": 18,
+        "item_type": "丹药"
+    },
+    "1112": {
+        "name": "天命血凝丹",
+        "type": "丹药",
+        "buff_type": "all",
+        "buff": 0,
+        "price": 100000,
+        "selling": 100,
+        "desc": "回复全部状态，金仙境以上可以使用！",
+        "境界": "金仙境",
+        "status": 1,
+        "quantity": 1,
+        "day_num": 10,
+        "all_num": 999999,
+        "rank": 18,
+        "item_type": "丹药"
+    },
+    "1500": {
+        "name": "冰心丹",
+        "type": "丹药",
+        "buff_type": "level_up_rate",
+        "buff": 1,
+        "price": 100000,
+        "selling": 100,
+        "desc": "使下一次突破成功几率增加1%，炼虚境以上可使用",
+        "境界": "炼虚境",
+        "status": 1,
+        "quantity": 1,
+        "day_num": 10,
+        "all_num": 100,
+        "rank": 34,
+        "item_type": "丹药"
+    },
+    "1501": {
+        "name": "明心丹",
+        "type": "丹药",
+        "buff_type": "level_up_rate",
+        "buff": 1,
+        "price": 100000,
+        "selling": 100,
+        "desc": "使下一次突破成功几率增加1%，合体境以上可使用",
+        "境界": "合体境",
+        "status": 1,
+        "quantity": 1,
+        "day_num": 10,
+        "all_num": 100,
+        "rank": 31,
+        "item_type": "丹药"
+    },
+    "1502": {
+        "name": "幻心玄丹",
+        "type": "丹药",
+        "buff_type": "level_up_rate",
+        "buff": 1,
+        "price": 100000,
+        "selling": 100,
+        "desc": "使下一次突破成功几率增加1%，大乘境以上可使用",
+        "境界": "大乘境",
+        "status": 1,
+        "quantity": 1,
+        "day_num": 10,
+        "all_num": 100,
+        "rank": 28,
+        "item_type": "丹药"
+    },
+    "1503": {
+        "name": "鬼面炼心丹",
+        "type": "丹药",
+        "buff_type": "level_up_rate",
+        "buff": 1,
+        "price": 100000,
+        "selling": 100,
+        "desc": "使下一次突破成功几率增加1%，渡劫境以上可使用",
+        "境界": "渡劫境",
+        "status": 1,
+        "quantity": 1,
+        "day_num": 10,
+        "all_num": 100,
+        "rank": 25,
+        "item_type": "丹药"
+    },
+    "1504": {
+        "name": "少阴清灵丹",
+        "type": "丹药",
+        "buff_type": "level_up_rate",
+        "buff": 1,
+        "price": 100000,
+        "selling": 100,
+        "desc": "使下一次突破成功几率增加1%，真仙境以上可使用",
+        "境界": "真仙境",
+        "status": 1,
+        "quantity": 1,
+        "day_num": 10,
+        "all_num": 100,
+        "rank": 21,
+        "item_type": "丹药"
+    },
+    "1505": {
+        "name": "天命炼心丹",
+        "type": "丹药",
+        "buff_type": "level_up_rate",
+        "buff": 1,
+        "price": 100000,
+        "selling": 100,
+        "desc": "使下一次突破成功几率增加1%，金仙境以上可使用",
+        "境界": "金仙境",
+        "status": 1,
+        "quantity": 1,
+        "day_num": 10,
+        "all_num": 100,
+        "rank": 18,
+        "item_type": "丹药"
+    },
+    "1999": {
+        "name": "渡厄丹",
+        "type": "丹药",
+        "buff_type": "level_up",
+        "buff": 0,
+        "price": 100000,
+        "selling": 100,
+        "desc": "使下一次突破丢失的修为减少为0！",
+        "境界": "渡劫境",
+        "status": 1,
+        "quantity": 1,
+        "rank": 24,
+        "item_type": "丹药"
+    },
+    "3001": {
+        "name": "恒心草",
+        "level": "一品药材",
+        "type": "药材",
+        "rank": 40,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 1
+            },
+            "type": 2,
+            "power": 2
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 1
+            },
+            "type": 2,
+            "power": 2
+        },
+        "辅药": {
+            "type": 3,
+            "power": 2
+        },
+        "item_type": "药材"
+    },
+    "3002": {
+        "name": "红绫草",
+        "level": "一品药材",
+        "type": "药材",
+        "rank": 40,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 1
+            },
+            "type": 2,
+            "power": 2
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 1
+            },
+            "type": 2,
+            "power": 2
+        },
+        "辅药": {
+            "type": 3,
+            "power": 2
+        },
+        "item_type": "药材"
+    },
+    "3003": {
+        "name": "罗犀草",
+        "level": "一品药材",
+        "type": "药材",
+        "rank": 40,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 1
+            },
+            "type": 2,
+            "power": 2
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 1
+            },
+            "type": 2,
+            "power": 2
+        },
+        "辅药": {
+            "type": 3,
+            "power": 2
+        },
+        "item_type": "药材"
+    },
+    "3004": {
+        "name": "天青花",
+        "level": "一品药材",
+        "type": "药材",
+        "rank": 40,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 1
+            },
+            "type": 2,
+            "power": 2
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 1
+            },
+            "type": 2,
+            "power": 2
+        },
+        "辅药": {
+            "type": 3,
+            "power": 2
+        },
+        "item_type": "药材"
+    },
+    "3005": {
+        "name": "五柳根",
+        "level": "二品药材",
+        "type": "药材",
+        "rank": 37,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 2
+            },
+            "type": 2,
+            "power": 4
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 2
+            },
+            "type": 2,
+            "power": 4
+        },
+        "辅药": {
+            "type": 3,
+            "power": 4
+        },
+        "item_type": "药材"
+    },
+    "3006": {
+        "name": "天元果",
+        "level": "二品药材",
+        "type": "药材",
+        "rank": 37,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 2
+            },
+            "type": 2,
+            "power": 4
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 2
+            },
+            "type": 2,
+            "power": 4
+        },
+        "辅药": {
+            "type": 3,
+            "power": 4
+        },
+        "item_type": "药材"
+    },
+    "3007": {
+        "name": "何首乌",
+        "level": "二品药材",
+        "type": "药材",
+        "rank": 37,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 2
+            },
+            "type": 2,
+            "power": 4
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 2
+            },
+            "type": 2,
+            "power": 4
+        },
+        "辅药": {
+            "type": 3,
+            "power": 4
+        },
+        "item_type": "药材"
+    },
+    "3008": {
+        "name": "夜交藤",
+        "level": "二品药材",
+        "type": "药材",
+        "rank": 37,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 2
+            },
+            "type": 2,
+            "power": 4
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 2
+            },
+            "type": 2,
+            "power": 4
+        },
+        "辅药": {
+            "type": 3,
+            "power": 4
+        },
+        "item_type": "药材"
+    },
+    "3009": {
+        "name": "紫猴花",
+        "level": "三品药材",
+        "type": "药材",
+        "rank": 34,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 4
+            },
+            "type": 2,
+            "power": 8
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 4
+            },
+            "type": 2,
+            "power": 8
+        },
+        "辅药": {
+            "type": 3,
+            "power": 8
+        },
+        "item_type": "药材"
+    },
+    "3010": {
+        "name": "九叶芝",
+        "level": "三品药材",
+        "type": "药材",
+        "rank": 34,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 4
+            },
+            "type": 2,
+            "power": 8
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 4
+            },
+            "type": 2,
+            "power": 8
+        },
+        "辅药": {
+            "type": 3,
+            "power": 8
+        },
+        "item_type": "药材"
+    },
+    "3011": {
+        "name": "幻心草",
+        "level": "三品药材",
+        "type": "药材",
+        "rank": 34,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 4
+            },
+            "type": 2,
+            "power": 8
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 4
+            },
+            "type": 2,
+            "power": 8
+        },
+        "辅药": {
+            "type": 3,
+            "power": 8
+        },
+        "item_type": "药材"
+    },
+    "3012": {
+        "name": "鬼臼草",
+        "level": "三品药材",
+        "type": "药材",
+        "rank": 34,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 4
+            },
+            "type": 2,
+            "power": 8
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 4
+            },
+            "type": 2,
+            "power": 8
+        },
+        "辅药": {
+            "type": 3,
+            "power": 8
+        },
+        "item_type": "药材"
+    },
+    "3013": {
+        "name": "血莲精",
+        "level": "四品药材",
+        "type": "药材",
+        "rank": 31,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 8
+            },
+            "type": 2,
+            "power": 16
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 8
+            },
+            "type": 2,
+            "power": 16
+        },
+        "辅药": {
+            "type": 3,
+            "power": 16
+        },
+        "item_type": "药材"
+    },
+    "3014": {
+        "name": "鸡冠草",
+        "level": "四品药材",
+        "type": "药材",
+        "rank": 31,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 8
+            },
+            "type": 2,
+            "power": 16
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 8
+            },
+            "type": 2,
+            "power": 16
+        },
+        "辅药": {
+            "type": 3,
+            "power": 16
+        },
+        "item_type": "药材"
+    },
+    "3015": {
+        "name": "银精芝",
+        "level": "四品药材",
+        "type": "药材",
+        "rank": 31,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 8
+            },
+            "type": 2,
+            "power": 16
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 8
+            },
+            "type": 2,
+            "power": 16
+        },
+        "辅药": {
+            "type": 3,
+            "power": 16
+        },
+        "item_type": "药材"
+    },
+    "3016": {
+        "name": "玉髓芝",
+        "level": "四品药材",
+        "type": "药材",
+        "rank": 31,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 8
+            },
+            "type": 2,
+            "power": 16
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 8
+            },
+            "type": 2,
+            "power": 16
+        },
+        "辅药": {
+            "type": 3,
+            "power": 16
+        },
+        "item_type": "药材"
+    },
+    "3017": {
+        "name": "地心火芝",
+        "level": "五品药材",
+        "type": "药材",
+        "rank": 28,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 16
+            },
+            "type": 2,
+            "power": 32
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 16
+            },
+            "type": 2,
+            "power": 32
+        },
+        "辅药": {
+            "type": 3,
+            "power": 32
+        },
+        "item_type": "药材"
+    },
+    "3018": {
+        "name": "天蝉灵叶",
+        "level": "五品药材",
+        "type": "药材",
+        "rank": 28,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 16
+            },
+            "type": 2,
+            "power": 32
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 16
+            },
+            "type": 2,
+            "power": 32
+        },
+        "辅药": {
+            "type": 3,
+            "power": 32
+        },
+        "item_type": "药材"
+    },
+    "3019": {
+        "name": "雪玉骨参",
+        "level": "五品药材",
+        "type": "药材",
+        "rank": 28,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 16
+            },
+            "type": 2,
+            "power": 32
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 16
+            },
+            "type": 2,
+            "power": 32
+        },
+        "辅药": {
+            "type": 3,
+            "power": 32
+        },
+        "item_type": "药材"
+    },
+    "3020": {
+        "name": "腐骨灵花",
+        "level": "五品药材",
+        "type": "药材",
+        "rank": 28,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 16
+            },
+            "type": 2,
+            "power": 32
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 16
+            },
+            "type": 2,
+            "power": 32
+        },
+        "辅药": {
+            "type": 3,
+            "power": 32
+        },
+        "item_type": "药材"
+    },
+    "3021": {
+        "name": "三叶青芝",
+        "level": "六品药材",
+        "type": "药材",
+        "rank": 25,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 32
+            },
+            "type": 2,
+            "power": 64
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 32
+            },
+            "type": 2,
+            "power": 64
+        },
+        "辅药": {
+            "type": 3,
+            "power": 64
+        },
+        "item_type": "药材"
+    },
+    "3022": {
+        "name": "七彩月兰",
+        "level": "六品药材",
+        "type": "药材",
+        "rank": 25,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 32
+            },
+            "type": 2,
+            "power": 64
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 32
+            },
+            "type": 2,
+            "power": 64
+        },
+        "辅药": {
+            "type": 3,
+            "power": 64
+        },
+        "item_type": "药材"
+    },
+    "3023": {
+        "name": "三尾风叶",
+        "level": "六品药材",
+        "type": "药材",
+        "rank": 25,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 32
+            },
+            "type": 2,
+            "power": 64
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 32
+            },
+            "type": 2,
+            "power": 64
+        },
+        "辅药": {
+            "type": 3,
+            "power": 64
+        },
+        "item_type": "药材"
+    },
+    "3024": {
+        "name": "冰灵焰草",
+        "level": "六品药材",
+        "type": "药材",
+        "rank": 25,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 32
+            },
+            "type": 2,
+            "power": 64
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 32
+            },
+            "type": 2,
+            "power": 64
+        },
+        "辅药": {
+            "type": 3,
+            "power": 64
+        },
+        "item_type": "药材"
+    },
+    "3025": {
+        "name": "地心淬灵乳",
+        "level": "七品药材",
+        "type": "药材",
+        "rank": 22,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 64
+            },
+            "type": 2,
+            "power": 128
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 64
+            },
+            "type": 2,
+            "power": 128
+        },
+        "辅药": {
+            "type": 3,
+            "power": 128
+        },
+        "item_type": "药材"
+    },
+    "3026": {
+        "name": "天麻翡石精",
+        "level": "七品药材",
+        "type": "药材",
+        "rank": 22,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 64
+            },
+            "type": 2,
+            "power": 128
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 64
+            },
+            "type": 2,
+            "power": 128
+        },
+        "辅药": {
+            "type": 3,
+            "power": 128
+        },
+        "item_type": "药材"
+    },
+    "3027": {
+        "name": "八角玄冰草",
+        "level": "七品药材",
+        "type": "药材",
+        "rank": 22,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 64
+            },
+            "type": 2,
+            "power": 128
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 64
+            },
+            "type": 2,
+            "power": 128
+        },
+        "辅药": {
+            "type": 3,
+            "power": 128
+        },
+        "item_type": "药材"
+    },
+    "3028": {
+        "name": "奇茸通天菊",
+        "level": "七品药材",
+        "type": "药材",
+        "rank": 22,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 64
+            },
+            "type": 2,
+            "power": 128
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 64
+            },
+            "type": 2,
+            "power": 128
+        },
+        "辅药": {
+            "type": 3,
+            "power": 128
+        },
+        "item_type": "药材"
+    },
+    "3029": {
+        "name": "木灵三针花",
+        "level": "八品药材",
+        "type": "药材",
+        "rank": 18,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 128
+            },
+            "type": 2,
+            "power": 256
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 128
+            },
+            "type": 2,
+            "power": 256
+        },
+        "辅药": {
+            "type": 3,
+            "power": 256
+        },
+        "item_type": "药材"
+    },
+    "3030": {
+        "name": "鎏鑫天晶草",
+        "level": "八品药材",
+        "type": "药材",
+        "rank": 18,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 128
+            },
+            "type": 2,
+            "power": 256
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 128
+            },
+            "type": 2,
+            "power": 256
+        },
+        "辅药": {
+            "type": 3,
+            "power": 256
+        },
+        "item_type": "药材"
+    },
+    "3031": {
+        "name": "檀芒九叶花",
+        "level": "八品药材",
+        "type": "药材",
+        "rank": 18,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 128
+            },
+            "type": 2,
+            "power": 256
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 128
+            },
+            "type": 2,
+            "power": 256
+        },
+        "辅药": {
+            "type": 3,
+            "power": 256
+        },
+        "item_type": "药材"
+    },
+    "3032": {
+        "name": "坎水玄冰果",
+        "level": "八品药材",
+        "type": "药材",
+        "rank": 18,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 128
+            },
+            "type": 2,
+            "power": 256
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 128
+            },
+            "type": 2,
+            "power": 256
+        },
+        "辅药": {
+            "type": 3,
+            "power": 256
+        },
+        "item_type": "药材"
+    },
+    "3033": {
+        "name": "离火梧桐芝",
+        "level": "九品药材",
+        "type": "药材",
+        "rank": 15,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 256
+            },
+            "type": 2,
+            "power": 512
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 256
+            },
+            "type": 2,
+            "power": 512
+        },
+        "辅药": {
+            "type": 3,
+            "power": 512
+        },
+        "item_type": "药材"
+    },
+    "3034": {
+        "name": "尘磊岩麟果",
+        "level": "九品药材",
+        "type": "药材",
+        "rank": 15,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 256
+            },
+            "type": 2,
+            "power": 512
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 256
+            },
+            "type": 2,
+            "power": 512
+        },
+        "辅药": {
+            "type": 3,
+            "power": 512
+        },
+        "item_type": "药材"
+    },
+    "3035": {
+        "name": "剑魄竹笋",
+        "level": "九品药材",
+        "type": "药材",
+        "rank": 15,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 256
+            },
+            "type": 2,
+            "power": 512
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 256
+            },
+            "type": 2,
+            "power": 512
+        },
+        "辅药": {
+            "type": 3,
+            "power": 512
+        },
+        "item_type": "药材"
+    },
+    "3036": {
+        "name": "明心问道果",
+        "level": "九品药材",
+        "type": "药材",
+        "rank": 15,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 256
+            },
+            "type": 2,
+            "power": 512
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 256
+            },
+            "type": 2,
+            "power": 512
+        },
+        "辅药": {
+            "type": 3,
+            "power": 512
+        },
+        "item_type": "药材"
+    },
+    "3037": {
+        "name": "宁心草",
+        "level": "一品药材",
+        "type": "药材",
+        "rank": 40,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 1
+            },
+            "type": 3,
+            "power": 2
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 1
+            },
+            "type": 2,
+            "power": 2
+        },
+        "辅药": {
+            "type": 4,
+            "power": 2
+        },
+        "item_type": "药材"
+    },
+    "3038": {
+        "name": "凝血草",
+        "level": "一品药材",
+        "type": "药材",
+        "rank": 40,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 1
+            },
+            "type": 3,
+            "power": 2
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 1
+            },
+            "type": 2,
+            "power": 2
+        },
+        "辅药": {
+            "type": 4,
+            "power": 2
+        },
+        "item_type": "药材"
+    },
+    "3039": {
+        "name": "银月花",
+        "level": "一品药材",
+        "type": "药材",
+        "rank": 40,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 1
+            },
+            "type": 3,
+            "power": 2
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 1
+            },
+            "type": 2,
+            "power": 2
+        },
+        "辅药": {
+            "type": 4,
+            "power": 2
+        },
+        "item_type": "药材"
+    },
+    "3040": {
+        "name": "宁神花",
+        "level": "一品药材",
+        "type": "药材",
+        "rank": 40,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 1
+            },
+            "type": 3,
+            "power": 2
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 1
+            },
+            "type": 2,
+            "power": 2
+        },
+        "辅药": {
+            "type": 4,
+            "power": 2
+        },
+        "item_type": "药材"
+    },
+    "3041": {
+        "name": "流莹草",
+        "level": "二品药材",
+        "type": "药材",
+        "rank": 37,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 2
+            },
+            "type": 3,
+            "power": 4
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 2
+            },
+            "type": 2,
+            "power": 4
+        },
+        "辅药": {
+            "type": 4,
+            "power": 4
+        },
+        "item_type": "药材"
+    },
+    "3042": {
+        "name": "蛇涎果",
+        "level": "二品药材",
+        "type": "药材",
+        "rank": 37,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 2
+            },
+            "type": 3,
+            "power": 4
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 2
+            },
+            "type": 2,
+            "power": 4
+        },
+        "辅药": {
+            "type": 4,
+            "power": 4
+        },
+        "item_type": "药材"
+    },
+    "3043": {
+        "name": "夏枯草",
+        "level": "二品药材",
+        "type": "药材",
+        "rank": 37,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 2
+            },
+            "type": 3,
+            "power": 4
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 2
+            },
+            "type": 2,
+            "power": 4
+        },
+        "辅药": {
+            "type": 4,
+            "power": 4
+        },
+        "item_type": "药材"
+    },
+    "3044": {
+        "name": "百草露",
+        "level": "二品药材",
+        "type": "药材",
+        "rank": 37,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 2
+            },
+            "type": 3,
+            "power": 4
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 2
+            },
+            "type": 2,
+            "power": 4
+        },
+        "辅药": {
+            "type": 4,
+            "power": 4
+        },
+        "item_type": "药材"
+    },
+    "3045": {
+        "name": "轻灵草",
+        "level": "三品药材",
+        "type": "药材",
+        "rank": 34,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 4
+            },
+            "type": 3,
+            "power": 8
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 4
+            },
+            "type": 2,
+            "power": 8
+        },
+        "辅药": {
+            "type": 4,
+            "power": 8
+        },
+        "item_type": "药材"
+    },
+    "3046": {
+        "name": "龙葵",
+        "level": "三品药材",
+        "type": "药材",
+        "rank": 34,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 4
+            },
+            "type": 3,
+            "power": 8
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 4
+            },
+            "type": 2,
+            "power": 8
+        },
+        "辅药": {
+            "type": 4,
+            "power": 8
+        },
+        "item_type": "药材"
+    },
+    "3047": {
+        "name": "弗兰草",
+        "level": "三品药材",
+        "type": "药材",
+        "rank": 34,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 4
+            },
+            "type": 3,
+            "power": 8
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 4
+            },
+            "type": 2,
+            "power": 8
+        },
+        "辅药": {
+            "type": 4,
+            "power": 8
+        },
+        "item_type": "药材"
+    },
+    "3048": {
+        "name": "玄参",
+        "level": "三品药材",
+        "type": "药材",
+        "rank": 34,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 4
+            },
+            "type": 3,
+            "power": 8
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 4
+            },
+            "type": 2,
+            "power": 8
+        },
+        "辅药": {
+            "type": 4,
+            "power": 8
+        },
+        "item_type": "药材"
+    },
+    "3049": {
+        "name": "菩提花",
+        "level": "四品药材",
+        "type": "药材",
+        "rank": 31,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 8
+            },
+            "type": 3,
+            "power": 16
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 8
+            },
+            "type": 2,
+            "power": 16
+        },
+        "辅药": {
+            "type": 4,
+            "power": 16
+        },
+        "item_type": "药材"
+    },
+    "3050": {
+        "name": "乌稠木",
+        "level": "四品药材",
+        "type": "药材",
+        "rank": 31,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 8
+            },
+            "type": 3,
+            "power": 16
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 8
+            },
+            "type": 2,
+            "power": 16
+        },
+        "辅药": {
+            "type": 4,
+            "power": 16
+        },
+        "item_type": "药材"
+    },
+    "3051": {
+        "name": "雪凝花",
+        "level": "四品药材",
+        "type": "药材",
+        "rank": 31,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 8
+            },
+            "type": 3,
+            "power": 16
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 8
+            },
+            "type": 2,
+            "power": 16
+        },
+        "辅药": {
+            "type": 4,
+            "power": 16
+        },
+        "item_type": "药材"
+    },
+    "3052": {
+        "name": "龙纹草",
+        "level": "四品药材",
+        "type": "药材",
+        "rank": 31,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 8
+            },
+            "type": 3,
+            "power": 16
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 8
+            },
+            "type": 2,
+            "power": 16
+        },
+        "辅药": {
+            "type": 4,
+            "power": 16
+        },
+        "item_type": "药材"
+    },
+    "3053": {
+        "name": "天灵果",
+        "level": "五品药材",
+        "type": "药材",
+        "rank": 28,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 16
+            },
+            "type": 3,
+            "power": 32
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 16
+            },
+            "type": 2,
+            "power": 32
+        },
+        "辅药": {
+            "type": 4,
+            "power": 32
+        },
+        "item_type": "药材"
+    },
+    "3054": {
+        "name": "灯心草",
+        "level": "五品药材",
+        "type": "药材",
+        "rank": 28,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 16
+            },
+            "type": 3,
+            "power": 32
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 16
+            },
+            "type": 2,
+            "power": 32
+        },
+        "辅药": {
+            "type": 4,
+            "power": 32
+        },
+        "item_type": "药材"
+    },
+    "3055": {
+        "name": "穿心莲",
+        "level": "五品药材",
+        "type": "药材",
+        "rank": 28,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 16
+            },
+            "type": 3,
+            "power": 32
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 16
+            },
+            "type": 2,
+            "power": 32
+        },
+        "辅药": {
+            "type": 4,
+            "power": 32
+        },
+        "item_type": "药材"
+    },
+    "3056": {
+        "name": "龙鳞果",
+        "level": "五品药材",
+        "type": "药材",
+        "rank": 28,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 16
+            },
+            "type": 3,
+            "power": 32
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 16
+            },
+            "type": 2,
+            "power": 32
+        },
+        "辅药": {
+            "type": 4,
+            "power": 32
+        },
+        "item_type": "药材"
+    },
+    "3057": {
+        "name": "白沉脂",
+        "level": "六品药材",
+        "type": "药材",
+        "rank": 25,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 32
+            },
+            "type": 3,
+            "power": 64
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 32
+            },
+            "type": 2,
+            "power": 64
+        },
+        "辅药": {
+            "type": 4,
+            "power": 64
+        },
+        "item_type": "药材"
+    },
+    "3058": {
+        "name": "苦曼藤",
+        "level": "六品药材",
+        "type": "药材",
+        "rank": 25,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 32
+            },
+            "type": 3,
+            "power": 64
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 32
+            },
+            "type": 2,
+            "power": 64
+        },
+        "辅药": {
+            "type": 4,
+            "power": 64
+        },
+        "item_type": "药材"
+    },
+    "3059": {
+        "name": "血菩提",
+        "level": "六品药材",
+        "type": "药材",
+        "rank": 25,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 32
+            },
+            "type": 3,
+            "power": 64
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 32
+            },
+            "type": 2,
+            "power": 64
+        },
+        "辅药": {
+            "type": 4,
+            "power": 64
+        },
+        "item_type": "药材"
+    },
+    "3060": {
+        "name": "诱妖草",
+        "level": "六品药材",
+        "type": "药材",
+        "rank": 25,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 32
+            },
+            "type": 3,
+            "power": 64
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 32
+            },
+            "type": 2,
+            "power": 64
+        },
+        "辅药": {
+            "type": 4,
+            "power": 64
+        },
+        "item_type": "药材"
+    },
+    "3061": {
+        "name": "天问花",
+        "level": "七品药材",
+        "type": "药材",
+        "rank": 22,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 64
+            },
+            "type": 3,
+            "power": 128
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 64
+            },
+            "type": 2,
+            "power": 128
+        },
+        "辅药": {
+            "type": 4,
+            "power": 128
+        },
+        "item_type": "药材"
+    },
+    "3062": {
+        "name": "渊血冥花",
+        "level": "七品药材",
+        "type": "药材",
+        "rank": 22,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 64
+            },
+            "type": 3,
+            "power": 128
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 64
+            },
+            "type": 2,
+            "power": 128
+        },
+        "辅药": {
+            "type": 4,
+            "power": 128
+        },
+        "item_type": "药材"
+    },
+    "3063": {
+        "name": "芒焰果",
+        "level": "七品药材",
+        "type": "药材",
+        "rank": 22,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 64
+            },
+            "type": 3,
+            "power": 128
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 64
+            },
+            "type": 2,
+            "power": 128
+        },
+        "辅药": {
+            "type": 4,
+            "power": 128
+        },
+        "item_type": "药材"
+    },
+    "3064": {
+        "name": "问道花",
+        "level": "七品药材",
+        "type": "药材",
+        "rank": 22,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 64
+            },
+            "type": 3,
+            "power": 128
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 64
+            },
+            "type": 2,
+            "power": 128
+        },
+        "辅药": {
+            "type": 4,
+            "power": 128
+        },
+        "item_type": "药材"
+    },
+    "3065": {
+        "name": "阴阳黄泉花",
+        "level": "八品药材",
+        "type": "药材",
+        "rank": 18,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 128
+            },
+            "type": 3,
+            "power": 256
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 128
+            },
+            "type": 2,
+            "power": 256
+        },
+        "辅药": {
+            "type": 4,
+            "power": 256
+        },
+        "item_type": "药材"
+    },
+    "3066": {
+        "name": "厉魂血珀",
+        "level": "八品药材",
+        "type": "药材",
+        "rank": 18,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 128
+            },
+            "type": 3,
+            "power": 256
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 128
+            },
+            "type": 2,
+            "power": 256
+        },
+        "辅药": {
+            "type": 4,
+            "power": 256
+        },
+        "item_type": "药材"
+    },
+    "3067": {
+        "name": "浩淼水藤",
+        "level": "八品药材",
+        "type": "药材",
+        "rank": 18,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 128
+            },
+            "type": 3,
+            "power": 256
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 128
+            },
+            "type": 2,
+            "power": 256
+        },
+        "辅药": {
+            "type": 4,
+            "power": 256
+        },
+        "item_type": "药材"
+    },
+    "3068": {
+        "name": "道蕴花",
+        "level": "八品药材",
+        "type": "药材",
+        "rank": 18,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 128
+            },
+            "type": 3,
+            "power": 256
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 128
+            },
+            "type": 2,
+            "power": 256
+        },
+        "辅药": {
+            "type": 4,
+            "power": 256
+        },
+        "item_type": "药材"
+    },
+    "3069": {
+        "name": "太乙碧莹花",
+        "level": "九品药材",
+        "type": "药材",
+        "rank": 15,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 256
+            },
+            "type": 3,
+            "power": 512
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 256
+            },
+            "type": 2,
+            "power": 512
+        },
+        "辅药": {
+            "type": 4,
+            "power": 512
+        },
+        "item_type": "药材"
+    },
+    "3070": {
+        "name": "森檀木",
+        "level": "九品药材",
+        "type": "药材",
+        "rank": 15,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 256
+            },
+            "type": 3,
+            "power": 512
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 256
+            },
+            "type": 2,
+            "power": 512
+        },
+        "辅药": {
+            "type": 4,
+            "power": 512
+        },
+        "item_type": "药材"
+    },
+    "3071": {
+        "name": "炼心芝",
+        "level": "九品药材",
+        "type": "药材",
+        "rank": 15,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 256
+            },
+            "type": 3,
+            "power": 512
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 256
+            },
+            "type": 2,
+            "power": 512
+        },
+        "辅药": {
+            "type": 4,
+            "power": 512
+        },
+        "item_type": "药材"
+    },
+    "3072": {
+        "name": "重元换血草",
+        "level": "九品药材",
+        "type": "药材",
+        "rank": 15,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 256
+            },
+            "type": 3,
+            "power": 512
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 256
+            },
+            "type": 2,
+            "power": 512
+        },
+        "辅药": {
+            "type": 4,
+            "power": 512
+        },
+        "item_type": "药材"
+    },
+    "3073": {
+        "name": "地黄参",
+        "level": "一品药材",
+        "type": "药材",
+        "rank": 40,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 1
+            },
+            "type": 5,
+            "power": 2
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 1
+            },
+            "type": 2,
+            "power": 2
+        },
+        "辅药": {
+            "type": 6,
+            "power": 2
+        },
+        "item_type": "药材"
+    },
+    "3074": {
+        "name": "火精枣",
+        "level": "一品药材",
+        "type": "药材",
+        "rank": 40,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 1
+            },
+            "type": 5,
+            "power": 2
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 1
+            },
+            "type": 2,
+            "power": 2
+        },
+        "辅药": {
+            "type": 6,
+            "power": 2
+        },
+        "item_type": "药材"
+    },
+    "3075": {
+        "name": "剑芦",
+        "level": "一品药材",
+        "type": "药材",
+        "rank": 40,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 1
+            },
+            "type": 5,
+            "power": 2
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 1
+            },
+            "type": 2,
+            "power": 2
+        },
+        "辅药": {
+            "type": 6,
+            "power": 2
+        },
+        "item_type": "药材"
+    },
+    "3076": {
+        "name": "七星草",
+        "level": "一品药材",
+        "type": "药材",
+        "rank": 40,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 1
+            },
+            "type": 5,
+            "power": 2
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 1
+            },
+            "type": 2,
+            "power": 2
+        },
+        "辅药": {
+            "type": 6,
+            "power": 2
+        },
+        "item_type": "药材"
+    },
+    "3077": {
+        "name": "风灵花",
+        "level": "二品药材",
+        "type": "药材",
+        "rank": 37,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 2
+            },
+            "type": 5,
+            "power": 4
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 2
+            },
+            "type": 2,
+            "power": 4
+        },
+        "辅药": {
+            "type": 6,
+            "power": 4
+        },
+        "item_type": "药材"
+    },
+    "3078": {
+        "name": "伏龙参",
+        "level": "二品药材",
+        "type": "药材",
+        "rank": 37,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 2
+            },
+            "type": 5,
+            "power": 4
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 2
+            },
+            "type": 2,
+            "power": 4
+        },
+        "辅药": {
+            "type": 6,
+            "power": 4
+        },
+        "item_type": "药材"
+    },
+    "3079": {
+        "name": "凌风花",
+        "level": "二品药材",
+        "type": "药材",
+        "rank": 37,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 2
+            },
+            "type": 5,
+            "power": 4
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 2
+            },
+            "type": 2,
+            "power": 4
+        },
+        "辅药": {
+            "type": 6,
+            "power": 4
+        },
+        "item_type": "药材"
+    },
+    "3080": {
+        "name": "补天芝",
+        "level": "二品药材",
+        "type": "药材",
+        "rank": 37,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 2
+            },
+            "type": 5,
+            "power": 4
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 2
+            },
+            "type": 2,
+            "power": 4
+        },
+        "辅药": {
+            "type": 6,
+            "power": 4
+        },
+        "item_type": "药材"
+    },
+    "3081": {
+        "name": "枫香脂",
+        "level": "三品药材",
+        "type": "药材",
+        "rank": 34,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 4
+            },
+            "type": 5,
+            "power": 8
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 4
+            },
+            "type": 2,
+            "power": 8
+        },
+        "辅药": {
+            "type": 6,
+            "power": 8
+        },
+        "item_type": "药材"
+    },
+    "3082": {
+        "name": "炼魂珠",
+        "level": "三品药材",
+        "type": "药材",
+        "rank": 34,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 4
+            },
+            "type": 5,
+            "power": 8
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 4
+            },
+            "type": 2,
+            "power": 8
+        },
+        "辅药": {
+            "type": 6,
+            "power": 8
+        },
+        "item_type": "药材"
+    },
+    "3083": {
+        "name": "玄冰花",
+        "level": "三品药材",
+        "type": "药材",
+        "rank": 34,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 4
+            },
+            "type": 5,
+            "power": 8
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 4
+            },
+            "type": 2,
+            "power": 8
+        },
+        "辅药": {
+            "type": 6,
+            "power": 8
+        },
+        "item_type": "药材"
+    },
+    "3084": {
+        "name": "炼血珠",
+        "level": "三品药材",
+        "type": "药材",
+        "rank": 34,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 4
+            },
+            "type": 5,
+            "power": 8
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 4
+            },
+            "type": 2,
+            "power": 8
+        },
+        "辅药": {
+            "type": 6,
+            "power": 8
+        },
+        "item_type": "药材"
+    },
+    "3085": {
+        "name": "石龙芮",
+        "level": "四品药材",
+        "type": "药材",
+        "rank": 31,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 8
+            },
+            "type": 5,
+            "power": 16
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 8
+            },
+            "type": 2,
+            "power": 16
+        },
+        "辅药": {
+            "type": 6,
+            "power": 16
+        },
+        "item_type": "药材"
+    },
+    "3086": {
+        "name": "锦地罗",
+        "level": "四品药材",
+        "type": "药材",
+        "rank": 31,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 8
+            },
+            "type": 5,
+            "power": 16
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 8
+            },
+            "type": 2,
+            "power": 16
+        },
+        "辅药": {
+            "type": 6,
+            "power": 16
+        },
+        "item_type": "药材"
+    },
+    "3087": {
+        "name": "冰灵果",
+        "level": "四品药材",
+        "type": "药材",
+        "rank": 31,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 8
+            },
+            "type": 5,
+            "power": 16
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 8
+            },
+            "type": 2,
+            "power": 16
+        },
+        "辅药": {
+            "type": 6,
+            "power": 16
+        },
+        "item_type": "药材"
+    },
+    "3088": {
+        "name": "玉龙参",
+        "level": "四品药材",
+        "type": "药材",
+        "rank": 31,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 8
+            },
+            "type": 5,
+            "power": 16
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 8
+            },
+            "type": 2,
+            "power": 16
+        },
+        "辅药": {
+            "type": 6,
+            "power": 16
+        },
+        "item_type": "药材"
+    },
+    "3089": {
+        "name": "伴妖草",
+        "level": "五品药材",
+        "type": "药材",
+        "rank": 28,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 16
+            },
+            "type": 5,
+            "power": 32
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 16
+            },
+            "type": 2,
+            "power": 32
+        },
+        "辅药": {
+            "type": 6,
+            "power": 32
+        },
+        "item_type": "药材"
+    },
+    "3090": {
+        "name": "剑心竹",
+        "level": "五品药材",
+        "type": "药材",
+        "rank": 28,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 16
+            },
+            "type": 5,
+            "power": 32
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 16
+            },
+            "type": 2,
+            "power": 32
+        },
+        "辅药": {
+            "type": 6,
+            "power": 32
+        },
+        "item_type": "药材"
+    },
+    "3091": {
+        "name": "绝魂草",
+        "level": "五品药材",
+        "type": "药材",
+        "rank": 28,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 16
+            },
+            "type": 5,
+            "power": 32
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 16
+            },
+            "type": 2,
+            "power": 32
+        },
+        "辅药": {
+            "type": 6,
+            "power": 32
+        },
+        "item_type": "药材"
+    },
+    "3092": {
+        "name": "月灵花",
+        "level": "五品药材",
+        "type": "药材",
+        "rank": 28,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 16
+            },
+            "type": 5,
+            "power": 32
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 16
+            },
+            "type": 2,
+            "power": 32
+        },
+        "辅药": {
+            "type": 6,
+            "power": 32
+        },
+        "item_type": "药材"
+    },
+    "3093": {
+        "name": "混元果",
+        "level": "六品药材",
+        "type": "药材",
+        "rank": 25,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 32
+            },
+            "type": 5,
+            "power": 64
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 32
+            },
+            "type": 2,
+            "power": 64
+        },
+        "辅药": {
+            "type": 6,
+            "power": 64
+        },
+        "item_type": "药材"
+    },
+    "3094": {
+        "name": "皇龙花",
+        "level": "六品药材",
+        "type": "药材",
+        "rank": 25,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 32
+            },
+            "type": 5,
+            "power": 64
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 32
+            },
+            "type": 2,
+            "power": 64
+        },
+        "辅药": {
+            "type": 6,
+            "power": 64
+        },
+        "item_type": "药材"
+    },
+    "3095": {
+        "name": "天剑笋",
+        "level": "六品药材",
+        "type": "药材",
+        "rank": 25,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 32
+            },
+            "type": 5,
+            "power": 64
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 32
+            },
+            "type": 6,
+            "power": 64
+        },
+        "辅药": {
+            "type": 3,
+            "power": 64
+        },
+        "item_type": "药材"
+    },
+    "3096": {
+        "name": "黑天麻",
+        "level": "六品药材",
+        "type": "药材",
+        "rank": 25,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 32
+            },
+            "type": 5,
+            "power": 64
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 32
+            },
+            "type": 2,
+            "power": 64
+        },
+        "辅药": {
+            "type": 6,
+            "power": 64
+        },
+        "item_type": "药材"
+    },
+    "3097": {
+        "name": "血玉竹",
+        "level": "七品药材",
+        "type": "药材",
+        "rank": 22,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 64
+            },
+            "type": 5,
+            "power": 128
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 64
+            },
+            "type": 2,
+            "power": 128
+        },
+        "辅药": {
+            "type": 6,
+            "power": 128
+        },
+        "item_type": "药材"
+    },
+    "3098": {
+        "name": "肠蚀草",
+        "level": "七品药材",
+        "type": "药材",
+        "rank": 22,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 64
+            },
+            "type": 5,
+            "power": 128
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 64
+            },
+            "type": 2,
+            "power": 128
+        },
+        "辅药": {
+            "type": 6,
+            "power": 128
+        },
+        "item_type": "药材"
+    },
+    "3099": {
+        "name": "凤血果",
+        "level": "七品药材",
+        "type": "药材",
+        "rank": 22,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 64
+            },
+            "type": 5,
+            "power": 128
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 64
+            },
+            "type": 2,
+            "power": 128
+        },
+        "辅药": {
+            "type": 6,
+            "power": 128
+        },
+        "item_type": "药材"
+    },
+    "3100": {
+        "name": "冰精芝",
+        "level": "七品药材",
+        "type": "药材",
+        "rank": 22,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 64
+            },
+            "type": 5,
+            "power": 128
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 64
+            },
+            "type": 2,
+            "power": 128
+        },
+        "辅药": {
+            "type": 6,
+            "power": 128
+        },
+        "item_type": "药材"
+    },
+    "3101": {
+        "name": "狼桃",
+        "level": "八品药材",
+        "type": "药材",
+        "rank": 18,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 128
+            },
+            "type": 5,
+            "power": 256
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 128
+            },
+            "type": 2,
+            "power": 256
+        },
+        "辅药": {
+            "type": 6,
+            "power": 256
+        },
+        "item_type": "药材"
+    },
+    "3102": {
+        "name": "霸王花",
+        "level": "八品药材",
+        "type": "药材",
+        "rank": 18,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 128
+            },
+            "type": 5,
+            "power": 256
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 128
+            },
+            "type": 2,
+            "power": 256
+        },
+        "辅药": {
+            "type": 6,
+            "power": 256
+        },
+        "item_type": "药材"
+    },
+    "3103": {
+        "name": "太清玄灵草",
+        "level": "八品药材",
+        "type": "药材",
+        "rank": 18,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 128
+            },
+            "type": 5,
+            "power": 256
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 128
+            },
+            "type": 2,
+            "power": 256
+        },
+        "辅药": {
+            "type": 6,
+            "power": 256
+        },
+        "item_type": "药材"
+    },
+    "3104": {
+        "name": "冥胎骨",
+        "level": "八品药材",
+        "type": "药材",
+        "rank": 18,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 128
+            },
+            "type": 5,
+            "power": 256
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 128
+            },
+            "type": 2,
+            "power": 256
+        },
+        "辅药": {
+            "type": 6,
+            "power": 256
+        },
+        "item_type": "药材"
+    },
+    "3105": {
+        "name": "地龙干",
+        "level": "九品药材",
+        "type": "药材",
+        "rank": 15,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 256
+            },
+            "type": 5,
+            "power": 512
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 256
+            },
+            "type": 2,
+            "power": 512
+        },
+        "辅药": {
+            "type": 6,
+            "power": 512
+        },
+        "item_type": "药材"
+    },
+    "3106": {
+        "name": "龙须藤",
+        "level": "九品药材",
+        "type": "药材",
+        "rank": 15,
+        "主药": {
+            "h_a_c": {
+                "type": 0,
+                "power": 256
+            },
+            "type": 5,
+            "power": 512
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 0,
+                "power": 256
+            },
+            "type": 2,
+            "power": 512
+        },
+        "辅药": {
+            "type": 6,
+            "power": 512
+        },
+        "item_type": "药材"
+    },
+    "3107": {
+        "name": "鬼面花",
+        "level": "九品药材",
+        "type": "药材",
+        "rank": 15,
+        "主药": {
+            "h_a_c": {
+                "type": -1,
+                "power": 256
+            },
+            "type": 5,
+            "power": 512
+        },
+        "药引": {
+            "h_a_c": {
+                "type": 1,
+                "power": 256
+            },
+            "type": 2,
+            "power": 512
+        },
+        "辅药": {
+            "type": 6,
+            "power": 512
+        },
+        "item_type": "药材"
+    },
+    "3108": {
+        "name": "梧桐木",
+        "level": "九品药材",
+        "type": "药材",
+        "rank": 15,
+        "主药": {
+            "h_a_c": {
+                "type": 1,
+                "power": 256
+            },
+            "type": 5,
+            "power": 512
+        },
+        "药引": {
+            "h_a_c": {
+                "type": -1,
+                "power": 256
+            },
+            "type": 2,
+            "power": 512
+        },
+        "辅药": {
+            "type": 6,
+            "power": 512
+        },
+        "item_type": "药材"
+    },
+    "2000": {
+        "name": "洗髓丹",
+        "desc": "使用后可以增加8000点修为！",
+        "type": "丹药",
+        "buff": 8000,
+        "buff_type": "exp_up",
+        "day_num": 10,
+        "all_num": 200,
+        "rank": 40,
+        "境界": "元婴境初期",
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 6,
+            "3": 6
+        },
+        "item_type": "合成丹药"
+    },
+    "2001": {
+        "name": "养气丹",
+        "desc": "使用后可以增加10000点修为！",
+        "type": "丹药",
+        "buff": 10000,
+        "buff_type": "exp_up",
+        "day_num": 10,
+        "all_num": 200,
+        "rank": 37,
+        "境界": "化神境初期",
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 12,
+            "3": 12
+        },
+        "item_type": "合成丹药"
+    },
+    "2002": {
+        "name": "九转丹",
+        "desc": "使用后可以增加12000点修为！",
+        "type": "丹药",
+        "buff": 12000,
+        "buff_type": "exp_up",
+        "day_num": 10,
+        "all_num": 200,
+        "rank": 34,
+        "境界": "炼虚境初期",
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 24,
+            "3": 24
+        },
+        "item_type": "合成丹药"
+    },
+    "2003": {
+        "name": "易筋丹",
+        "desc": "使用后可以增加14000点修为！",
+        "type": "丹药",
+        "buff": 14000,
+        "buff_type": "exp_up",
+        "day_num": 10,
+        "all_num": 200,
+        "rank": 31,
+        "境界": "合体境初期",
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 48,
+            "3": 48
+        },
+        "item_type": "合成丹药"
+    },
+    "2004": {
+        "name": "天尘丹",
+        "desc": "使用后可以增加16000点修为！",
+        "type": "丹药",
+        "buff": 16000,
+        "buff_type": "exp_up",
+        "day_num": 10,
+        "all_num": 200,
+        "rank": 28,
+        "境界": "大乘境初期",
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 96,
+            "3": 96
+        },
+        "item_type": "合成丹药"
+    },
+    "2005": {
+        "name": "天元神丹",
+        "desc": "使用后可以增加18000点修为！",
+        "type": "丹药",
+        "buff": 18000,
+        "buff_type": "exp_up",
+        "day_num": 10,
+        "all_num": 200,
+        "rank": 25,
+        "境界": "渡劫境初期",
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 192,
+            "3": 192
+        },
+        "item_type": "合成丹药"
+    },
+    "2006": {
+        "name": "太乙碧莹丹",
+        "desc": "使用后可以增加20000点修为！",
+        "type": "丹药",
+        "buff": 20000,
+        "buff_type": "exp_up",
+        "day_num": 10,
+        "all_num": 200,
+        "rank": 22,
+        "境界": "半步真仙",
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 384,
+            "3": 384
+        },
+        "item_type": "合成丹药"
+    },
+    "2007": {
+        "name": "六阳长生丹",
+        "desc": "使用后可以增加30000点修为！",
+        "type": "丹药",
+        "buff": 30000,
+        "buff_type": "exp_up",
+        "day_num": 10,
+        "all_num": 200,
+        "rank": 18,
+        "境界": "金仙境初期",
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 768,
+            "3": 768
+        },
+        "item_type": "合成丹药"
+    },
+    "2008": {
+        "name": "道源丹",
+        "desc": "使用后可以增加40000点修为！",
+        "type": "丹药",
+        "buff": 40000,
+        "buff_type": "exp_up",
+        "day_num": 10,
+        "all_num": 200,
+        "rank": 15,
+        "境界": "太乙境初期",
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 1536,
+            "3": 1536
+        },
+        "item_type": "合成丹药"
+    },
+    "1400": {
+        "name": "筑基丹",
+        "type": "丹药",
+        "rank": 47,
+        "desc": "筑基丹，冲击筑基境必备的丹药，使突破到筑基境的概率提升30%，只可使用1颗！",
+        "境界": "练气境圆满",
+        "buff_type": "level_up_big",
+        "day_num": 1,
+        "all_num": 1,
+        "buff": 30,
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 2,
+            "4": 2
+        },
+        "item_type": "合成丹药"
+    },
+    "1401": {
+        "name": "聚顶丹",
+        "type": "丹药",
+        "rank": 44,
+        "desc": "聚顶丹，冲击结丹境必备的丹药之一，使突破到结丹境的概率提升20%，只可使用1颗！",
+        "境界": "筑基境圆满",
+        "buff_type": "level_up_big",
+        "day_num": 1,
+        "all_num": 1,
+        "buff": 20,
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 4,
+            "4": 4
+        },
+        "item_type": "合成丹药"
+    },
+    "1402": {
+        "name": "朝元丹",
+        "type": "丹药",
+        "rank": 44,
+        "desc": "朝元丹，冲击结丹境必备的2种丹药之一，使突破到结丹境的概率提升20%，只可使用1颗！",
+        "境界": "筑基境圆满",
+        "buff_type": "level_up_big",
+        "day_num": 1,
+        "all_num": 1,
+        "buff": 20,
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 8,
+            "4": 8
+        },
+        "item_type": "合成丹药"
+    },
+    "1403": {
+        "name": "锻脉丹",
+        "type": "丹药",
+        "rank": 41,
+        "desc": "锻脉丹，冲击元婴境必备的2种丹药之一，使突破到元婴境的概率提升20%，只可使用1颗！",
+        "境界": "结丹境圆满",
+        "buff_type": "level_up_big",
+        "day_num": 1,
+        "all_num": 1,
+        "buff": 20,
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 12,
+            "4": 12
+        },
+        "item_type": "合成丹药"
+    },
+    "1404": {
+        "name": "护脉丹",
+        "type": "丹药",
+        "rank": 41,
+        "desc": "护脉丹，冲击元婴境必备的2种丹药之一，使突破到元婴境的概率提升20%，只可使用1颗！",
+        "境界": "结丹境圆满",
+        "buff_type": "level_up_big",
+        "day_num": 1,
+        "all_num": 1,
+        "buff": 20,
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 16,
+            "4": 16
+        },
+        "item_type": "合成丹药"
+    },
+    "1405": {
+        "name": "天命淬体丹",
+        "type": "丹药",
+        "rank": 38,
+        "desc": "天命淬体丹，冲击化神境必备的3种丹药之一，使突破到化神境的概率提升10%，只可使用1颗！",
+        "境界": "元婴境圆满",
+        "buff_type": "level_up_big",
+        "day_num": 1,
+        "all_num": 1,
+        "buff": 10,
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 20,
+            "4": 20
+        },
+        "item_type": "合成丹药"
+    },
+    "1406": {
+        "name": "澄心塑魂丹",
+        "type": "丹药",
+        "rank": 38,
+        "desc": "澄心塑魂丹，冲击化神境必备的3种丹药之一，使突破到化神境的概率提升10%，只可使用1颗！",
+        "境界": "元婴境圆满",
+        "buff_type": "level_up_big",
+        "day_num": 1,
+        "all_num": 1,
+        "buff": 10,
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 24,
+            "4": 24
+        },
+        "item_type": "合成丹药"
+    },
+    "1407": {
+        "name": "混元仙体丹",
+        "type": "丹药",
+        "rank": 38,
+        "desc": "混元仙体丹，冲击化神境必备的3种丹药之一，使突破到化神境的概率提升10%，只可使用1颗！",
+        "境界": "元婴境圆满",
+        "buff_type": "level_up_big",
+        "day_num": 1,
+        "all_num": 1,
+        "buff": 10,
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 32,
+            "4": 32
+        },
+        "item_type": "合成丹药"
+    },
+    "1408": {
+        "name": "黑炎丹",
+        "type": "丹药",
+        "rank": 35,
+        "desc": "黑炎丹，冲击炼虚境必备的2种丹药之一，使突破到炼虚境的概率提升10%，只可使用1颗！",
+        "境界": "化神境圆满",
+        "buff_type": "level_up_big",
+        "day_num": 1,
+        "all_num": 1,
+        "buff": 10,
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 48,
+            "4": 48
+        },
+        "item_type": "合成丹药"
+    },
+    "1409": {
+        "name": "金血丸",
+        "type": "丹药",
+        "rank": 35,
+        "desc": "金血丸，冲击炼虚境必备的2种丹药之一，使突破到炼虚境的概率提升10%，只可使用1颗！",
+        "境界": "化神境圆满",
+        "buff_type": "level_up_big",
+        "day_num": 1,
+        "all_num": 1,
+        "buff": 10,
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 64,
+            "4": 64
+        },
+        "item_type": "合成丹药"
+    },
+    "1410": {
+        "name": "虚灵丹",
+        "type": "丹药",
+        "rank": 32,
+        "desc": "虚灵丹，冲击合体境必备的2种丹药之一，使突破到合体境的概率提升10%，只可使用1颗！",
+        "境界": "炼虚境圆满",
+        "buff_type": "level_up_big",
+        "day_num": 1,
+        "all_num": 1,
+        "buff": 10,
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 96,
+            "4": 96
+        },
+        "item_type": "合成丹药"
+    },
+    "1411": {
+        "name": "净明丹",
+        "type": "丹药",
+        "rank": 32,
+        "desc": "净明丹，冲击合体境必备的2种丹药之一，使突破到合体境的概率提升10%，只可使用1颗！",
+        "境界": "炼虚境圆满",
+        "buff_type": "level_up_big",
+        "day_num": 1,
+        "all_num": 1,
+        "buff": 10,
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 128,
+            "4": 128
+        },
+        "item_type": "合成丹药"
+    },
+    "1412": {
+        "name": "安神灵液",
+        "type": "丹药",
+        "rank": 29,
+        "desc": "安神灵液，冲击大乘境必备的2种丹药之一，使突破到大乘境的概率提升10%，只可使用1颗！",
+        "境界": "合体境圆满",
+        "buff_type": "level_up_big",
+        "day_num": 1,
+        "all_num": 1,
+        "buff": 10,
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 160,
+            "4": 160
+        },
+        "item_type": "合成丹药"
+    },
+    "1413": {
+        "name": "魇龙之血",
+        "type": "丹药",
+        "rank": 29,
+        "desc": "魇龙之血，冲击大乘境必备的2种丹药之一，使突破到大乘境的概率提升10%，只可使用1颗！",
+        "境界": "合体境圆满",
+        "buff_type": "level_up_big",
+        "day_num": 1,
+        "all_num": 1,
+        "buff": 10,
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 192,
+            "4": 192
+        },
+        "item_type": "合成丹药"
+    },
+    "1414": {
+        "name": "化劫丹",
+        "type": "丹药",
+        "rank": 26,
+        "desc": "化渡丹，冲击渡劫境必备的丹药，使突破到渡劫境的概率提升20%，只可使用1颗！",
+        "境界": "大乘境圆满",
+        "buff_type": "level_up_big",
+        "day_num": 1,
+        "all_num": 1,
+        "buff": 20,
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 256,
+            "4": 256
+        },
+        "item_type": "合成丹药"
+    },
+    "1415": {
+        "name": "太上玄门丹",
+        "type": "丹药",
+        "rank": 22,
+        "desc": "太上玄门丹，冲击真仙境必备的丹药，使突破到真仙境的概率提升20%，只可使用1颗！",
+        "境界": "半步真仙",
+        "buff_type": "level_up_big",
+        "day_num": 1,
+        "all_num": 1,
+        "buff": 20,
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 384,
+            "4": 384
+        },
+        "item_type": "合成丹药"
+    },
+    "1416": {
+        "name": "金仙破厄丹",
+        "type": "丹药",
+        "rank": 19,
+        "desc": "金仙破厄丹，冲击金仙境必备的丹药，使突破到金仙境的概率提升20%，只可使用1颗！",
+        "境界": "真仙境圆满",
+        "buff_type": "level_up_big",
+        "day_num": 1,
+        "all_num": 1,
+        "buff": 20,
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 768,
+            "4": 768
+        },
+        "item_type": "合成丹药"
+    },
+    "1417": {
+        "name": "太乙炼髓丹",
+        "type": "丹药",
+        "rank": 16,
+        "desc": "太乙炼髓丹，冲击太乙境必备的丹药，使突破到太乙境的概率提升20%，只可使用1颗！",
+        "境界": "金仙境圆满",
+        "buff_type": "level_up_big",
+        "day_num": 1,
+        "all_num": 1,
+        "buff": 20,
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 1536,
+            "4": 1536
+        },
+        "item_type": "合成丹药"
+    },
+    "2009": {
+        "name": "摄魂鬼丸",
+        "desc": "使用后可以永久增加720点攻击力！",
+        "type": "丹药",
+        "buff": 720,
+        "buff_type": "atk_buff",
+        "day_num": 5,
+        "all_num": 5,
+        "rank": 40,
+        "境界": "元婴境初期",
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 10,
+        "elixir_config": {
+            "2": 6,
+            "6": 6
+        },
+        "item_type": "合成丹药"
+    },
+    "2010": {
+        "name": "化煞魔丸",
+        "desc": "使用后可以永久增加1760点攻击力！",
+        "type": "丹药",
+        "buff": 1760,
+        "buff_type": "atk_buff",
+        "day_num": 5,
+        "all_num": 5,
+        "rank": 37,
+        "境界": "化神境初期",
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 12,
+            "6": 12
+        },
+        "item_type": "合成丹药"
+    },
+    "2011": {
+        "name": "素心真丸",
+        "desc": "使用后可以永久增加4160点攻击力！",
+        "type": "丹药",
+        "buff": 4160,
+        "buff_type": "atk_buff",
+        "day_num": 5,
+        "all_num": 5,
+        "rank": 34,
+        "境界": "炼虚境初期",
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 24,
+            "6": 24
+        },
+        "item_type": "合成丹药"
+    },
+    "2012": {
+        "name": "灭神古丸",
+        "desc": "使用后可以永久增加9600点攻击力！",
+        "type": "丹药",
+        "buff": 9600,
+        "buff_type": "atk_buff",
+        "day_num": 5,
+        "all_num": 5,
+        "rank": 31,
+        "境界": "合体境初期",
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 48,
+            "6": 48
+        },
+        "item_type": "合成丹药"
+    },
+    "2013": {
+        "name": "静禅魔丸",
+        "desc": "使用后可以永久增加21760点攻击力！",
+        "type": "丹药",
+        "buff": 21760,
+        "buff_type": "atk_buff",
+        "day_num": 5,
+        "all_num": 5,
+        "rank": 28,
+        "境界": "大乘境初期",
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 96,
+            "6": 96
+        },
+        "item_type": "合成丹药"
+    },
+    "2014": {
+        "name": "地仙玄丸",
+        "desc": "使用后可以永久增加48640点攻击力！",
+        "type": "丹药",
+        "buff": 48640,
+        "buff_type": "atk_buff",
+        "day_num": 5,
+        "all_num": 5,
+        "rank": 25,
+        "境界": "渡劫境初期",
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 192,
+            "6": 192
+        },
+        "item_type": "合成丹药"
+    },
+    "2015": {
+        "name": "消冰宝丸",
+        "desc": "使用后可以永久增加104840点攻击力！",
+        "type": "丹药",
+        "buff": 104840,
+        "buff_type": "atk_buff",
+        "day_num": 5,
+        "all_num": 5,
+        "rank": 22,
+        "境界": "半步真仙",
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 384,
+            "6": 384
+        },
+        "item_type": "合成丹药"
+    },
+    "2016": {
+        "name": "无涯鬼丸",
+        "desc": "使用后可以永久增加304840点攻击力！",
+        "type": "丹药",
+        "buff": 304840,
+        "buff_type": "atk_buff",
+        "day_num": 5,
+        "all_num": 5,
+        "rank": 18,
+        "境界": "金仙境初期",
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 768,
+            "6": 768
+        },
+        "item_type": "合成丹药"
+    },
+    "2017": {
+        "name": "太一仙丸",
+        "desc": "使用后可以永久增加604840点攻击力！",
+        "type": "丹药",
+        "buff": 604840,
+        "buff_type": "atk_buff",
+        "day_num": 5,
+        "all_num": 5,
+        "rank": 15,
+        "境界": "太乙境初期",
+        "mix_need_time": 60,
+        "mix_exp": 10,
+        "mix_all": 100,
+        "elixir_config": {
+            "2": 1536,
+            "6": 1536
+        },
+        "item_type": "合成丹药"
+    },
+    "4001": {
+        "name": "寒铁铸心炉",
+        "type": "炼丹炉",
+        "desc": "由万年寒铁打造的顶尖丹炉，可以使产出的丹药增加2枚",
+        "buff": 2,
+        "rank": 20,
+        "item_type": "炼丹炉"
+    },
+    "4002": {
+        "name": "雕花紫铜炉",
+        "type": "炼丹炉",
+        "desc": "表面刻有精美雕花的紫铜丹炉，一看便出自大师之手，可以使产出的丹药增加1枚",
+        "buff": 1,
+        "rank": 30,
+        "item_type": "炼丹炉"
+    },
+    "4003": {
+        "name": "陨铁炉",
+        "type": "炼丹炉",
+        "desc": "以陨铁炼制的丹炉，耐高温，具有基础的炼丹功能",
+        "buff": 0,
+        "rank": 40,
+        "item_type": "炼丹炉"
+    },
+    "2500": {
+        "name": "一级聚灵旗",
+        "desc": "提升洞天福地中的灵气汇集速度，加速修炼速度和灵田中药材生长速度",
+        "type": "聚灵旗",
+        "修炼速度": 1,
+        "药材速度": 1,
+        "rank": 40,
+        "item_type": "聚灵旗"
+    },
+    "2501": {
+        "name": "二级聚灵旗",
+        "desc": "提升洞天福地中的灵气汇集速度，加速修炼速度和灵田中药材生长速度",
+        "type": "聚灵旗",
+        "修炼速度": 2,
+        "药材速度": 2,
+        "rank": 35,
+        "item_type": "聚灵旗"
+    },
+    "2502": {
+        "name": "三级聚灵旗",
+        "desc": "提升洞天福地中的灵气汇集速度，加速修炼速度和灵田中药材生长速度",
+        "type": "聚灵旗",
+        "修炼速度": 3,
+        "药材速度": 3,
+        "rank": 30,
+        "item_type": "聚灵旗"
+    },
+    "2503": {
+        "name": "四级聚灵旗",
+        "desc": "提升洞天福地中的灵气汇集速度，加速修炼速度和灵田中药材生长速度",
+        "type": "聚灵旗",
+        "修炼速度": 4,
+        "药材速度": 4,
+        "rank": 25,
+        "item_type": "聚灵旗"
+    },
+    "2504": {
+        "name": "仙级聚灵旗",
+        "desc": "大幅提升洞天福地中的灵气汇集速度，加速修炼速度和灵田中药材生长速度",
+        "type": "聚灵旗",
+        "修炼速度": 5,
+        "药材速度": 5,
+        "rank": 20,
+        "item_type": "聚灵旗"
+    }
+}
